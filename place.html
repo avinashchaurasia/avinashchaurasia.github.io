@@ -3,8 +3,21 @@
 	<head>
         <!-- Latest compiled and minified CSS -->
         <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.5/css/bootstrap.min.css">
-	</head>
+	    
+        <script>
+            function jsFunction(){
+                var myselect = document.getElementById("selectOpt");
+                alert(myselect.options[myselect.selectedIndex].value);
+            }
+        </script>
+        
+    </head>
 	<body>
+        <!---
+          ---
+                TABS -- common for all pages
+          ---
+         --->
         <ul class="nav nav-tabs">
             <li role="presentation" class="active">
                 <a href="place.html">Places</a>
@@ -16,6 +29,17 @@
                 <a href="#">Comments</a>
             </li>
         </ul>
-        blah.......
+        <!---
+          ---
+                Dropdown menu for selecting place type
+          ---
+         --->
+        
+        <select onChange="jsFunction()" id="selectOpt" class="form-control">
+            <option value="1" onclick="jsFunction()">1</option>
+            <option value="2">2</option>
+            <option value="3">3</option>
+        </select>
+        
 	</body>
 <html>
