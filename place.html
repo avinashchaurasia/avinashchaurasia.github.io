@@ -3,12 +3,38 @@
 	<head>
         <!-- Latest compiled and minified CSS -->
         <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.5/css/bootstrap.min.css">
-	    
-        <script>
+
+        <script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.0.0-alpha1/jquery.min.js" >
+
+        </script>
+        <script>            
+            var x = document.getElementById("content");
+            var location = "";
+
             function jsFunction(){
                 var myselect = document.getElementById("selectOpt");
-                alert(myselect.options[myselect.selectedIndex].value);
+                getLocation();
+                
+                var url = "https://maps.googleapis.com/maps/api/place/nearbysearch/json?location=" + position.coords.latitude+","+position.coords.longitude+"&radius=500&keyword="+myselect.options[myselect.selectedIndex].value+"&key=AIzaSyDamwukThA0LymfPgknEzau6AbjIUZFWDs";
+                $.ajax({url, success: function(result){
+                    $("#content").html(result);
+                }});
+                
+                // alert(myselect.options[myselect.selectedIndex].value);
             }
+
+            function getLocation() {
+                if (navigator.geolocation) {
+                    navigator.geolocation.getCurrentPosition(getInformation);
+                } else { 
+                    x.innerHTML = "Geolocation is not supported by this browser.";
+                }
+            }
+
+            function getInformation(position) {
+                location = position.coords.latitude + position.coords.longitude; 
+            }
+            
         </script>
         
     </head>
@@ -23,10 +49,10 @@
                 <a href="place.html">Places</a>
             </li>
             <li role="presentation">
-                <a href="#">Map</a>
+                <a href="map.html">Map</a>
             </li>
             <li role="presentation">
-                <a href="#">Comments</a>
+                <a href="comments.html">Comments</a>
             </li>
         </ul>
         <!---
@@ -36,10 +62,17 @@
          --->
         
         <select onChange="jsFunction()" id="selectOpt" class="form-control">
-            <option value="1" onclick="jsFunction()">1</option>
-            <option value="2">2</option>
-            <option value="3">3</option>
+            <option value="sanctuaries">Sanctuaries</option>
+            <option value="restaurant">Restaurant</option>
+            <option value="hotel">Hotel</option>
+            <option value="museum">Museum</option>
+            <option value="monument">Monument</option>
+            <option value="bus station">Bus Station</option>
+            <option value="railway station">Railway Station</option>
+            <option value="atm">ATM</option>
         </select>
         
-	</body>
+        <p id="content"></p>
+	
+    </body>
 <html>
