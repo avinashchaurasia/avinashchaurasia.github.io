@@ -3,10 +3,8 @@
 	<head>
         <!-- Latest compiled and minified CSS -->
         <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.5/css/bootstrap.min.css">
-
-        <script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.0.0-alpha1/jquery.min.js" >
-
-        </script>
+        <script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.0.0-alpha1/jquery.min.js"/>
+        
         <script>            
             var x = document.getElementById("content");
             var location = "";
@@ -15,7 +13,7 @@
                 var myselect = document.getElementById("selectOpt");
                 getLocation();
                 
-                var url = "https://maps.googleapis.com/maps/api/place/nearbysearch/json?location=" + position.coords.latitude+","+position.coords.longitude+"&radius=500&keyword="+myselect.options[myselect.selectedIndex].value+"&key=AIzaSyDamwukThA0LymfPgknEzau6AbjIUZFWDs";
+                var url = "https://maps.googleapis.com/maps/api/place/nearbysearch/json?location=" +  location+"&radius=500&keyword="+myselect.options[myselect.selectedIndex].value+"&key=AIzaSyDamwukThA0LymfPgknEzau6AbjIUZFWDs";
                 
                 $.get(url, function(data){
                     x.innerHTML = data;
@@ -33,7 +31,7 @@
             }
 
             function getInformation(position) {
-                location = position.coords.latitude + position.coords.longitude; 
+                location = position.coords.latitude +","+position.coords.longitude; 
             }
             
         </script>
@@ -63,6 +61,7 @@
          --->
         
         <select onChange="jsFunction()" id="selectOpt" class="form-control">
+            <option value="none">None</option>
             <option value="sanctuaries">Sanctuaries</option>
             <option value="restaurant">Restaurant</option>
             <option value="hotel">Hotel</option>
