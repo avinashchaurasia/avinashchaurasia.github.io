@@ -3,7 +3,73 @@
 	<head>
         <!-- Latest compiled and minified CSS -->
         <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.5/css/bootstrap.min.css">
+        
+        <meta name="viewport" content="initial-scale=1.0, user-scalable=no" />
+        <style type="text/css">
+            html { height: 100% }
+            body { height: 100%; margin: 0; padding: 0 }
+            #map-canvas { height: 75% }
+        </style>
+        <script type="text/javascript" src="https://ajax.googleapis.com/ajax/libs/jquery/2.0.0/jquery.min.js"></script>
+        <script type="text/javascript" src="https://maps.googleapis.com/maps/api/js?key=AIzaSyC2MndnCGBXqDolsrQYhNdVyXqsk0NRm8Q&sensor=true&libraries=places">
+        </script>
+        <script type="text/javascript" >
+            var map;
+
+            function handleSearchResults(results, status) {
+
+                if (status == google.maps.places.PlacesServiceStatus.OK) {
+
+                    for (var i = 0; i < results.length; i++) {
+                        var marker = new google.maps.Marker({
+                            //typo: it must be location not Location
+                            position: results[i].geometry.location,
+                            map: map,
+                            icon: results[i].icon
+                        });
+                    }
+                }
+
+            }
+
+            function performSearch() {
+                var myselect = document.getElementById("selectOpt");
+                var request = {
+                    bounds: map.getBounds(),
+                    name: myselect.options[myselect.selectedIndex].value
+                };
+
+                var service = new google.maps.places.PlacesService(map);
+                //use only the name of the function as callback-argument
+                service.nearbySearch(request, handleSearchResults);
+
+            }
+
+            function initialize(location) {
+                var myLatlng = new google.maps.LatLng(location.coords.latitude,location.coords.longitude);
+
+                var mapOptions = {
+                    center: myLatlng,
+                    zoom: 15
+                };
+                //removed the var-keyword(otherwise map is not global accessible)
+                map = new google.maps.Map(document.getElementById("map-canvas"), 
+                                          mapOptions);
+                var marker = new google.maps.Marker({
+                    position: myLatlng,
+                    map: map,
+                    title: "My place"
+                });
+                //again: use only the name of the function as callback-argument
+                service = new google.maps.event.addListenerOnce(map, 'bounds_changed', performSearch);
+            }
+
+            $(document).ready(function () {
+                navigator.geolocation.getCurrentPosition(initialize);
+            });
+        </script>               
 	</head>
+    
 	<body>
         <ul class="nav nav-tabs">
             <li role="presentation" class="active">
@@ -16,5 +82,26 @@
                 <a href="comments.html">Comments</a>
             </li>
         </ul>
+        
+        <!---
+          ---
+                Dropdown menu for selecting place type
+          ---
+         --->
+        
+        <select onChange="performSearch()" id="selectOpt" class="form-control">
+            <option value="none">None</option>
+            <option value="sanctuaries">Sanctuaries</option>
+            <option value="restaurant">Restaurant</option>
+            <option value="hotel">Hotel</option>
+            <option value="museum">Museum</option>
+            <option value="monument">Monument</option>
+            <option value="bus station">Bus Station</option>
+            <option value="railway station">Railway Station</option>
+            <option value="atm">ATM</option>
+        </select>
+        
+        <div class="rows" id="map-canvas"/>
+        
 	</body>
 <html>
