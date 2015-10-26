@@ -8,36 +8,39 @@
         <!-- Latest compiled and minified CSS -->
         <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.5/css/bootstrap.min.css">        
         <script src="https://ajax.googleapis.com/ajax/libs/jquery/2.1.3/jquery.min.js"></script>
-        
+        <script src="http://avinashchaurasia.github.io/abhinav.js"></script>
         <script>            
             var x = document.getElementById("content");
             var loc = "";
             getLocation();
-            function jsFunction(){
+            function jsFunction() {
                 var myselect = document.getElementById("selectOpt");
                 
-                $("#content").empty();
+                var url = "https://maps.googleapis.com/maps/api/place/nearbysearch/json?location=" +  loc+"&radius=500&keyword="+myselect.options[myselect.selectedIndex].value+"&key=AIzaSyDamwukThA0LymfPgknEzau6AbjIUZFWDs";
                 
-                var ur = "https://maps.googleapis.com/maps/api/place/nearbysearch/json?location=" +  loc+"&radius=500&keyword="+myselect.options[myselect.selectedIndex].value+"&key=AIzaSyDamwukThA0LymfPgknEzau6AbjIUZFWDs";
-                $("#content").append("<table class=\"table\"><tbody>");
-                
-                $.ajax({
-                   type: 'GET',
-                   url: ur,
-                   processData: true,
-                   data: {},
-                   dataType: "json",
-                   success: function (data) {
+                /*
+                $.get(url, function(data){
                     for(i = 0; i < data.results.length; i++) {
-                        $("#content").append("<tr>"+data.results[i].name+"</tr>")
+                        $("#content").append
                     }
-                   }
                 });
+                */
                 
+                (function() {  // DON'T EDIT BELOW THIS LINE
+                    var d = document, s = d.createElement('script');
 
+                    s.src = url;
+
+                    s.setAttribute('data-timestamp', +new Date());
+                    (myselect).appendChild(s);
+                })();
+                /*
+                    for (i = 0; i < myJSONResult.results.length; i++) {
+                        myAddress[i] = myJSONResult.results[i].formatted_address;
+                    }
+                */
                 
-                $("#content").append("</tbody></table>");
-                                
+                /* alert(myselect.options[myselect.selectedIndex].value); */
             }
 
             function getLocation() {
@@ -90,6 +93,6 @@
         </select>
         
         <p id="content"></p>
-	
+	   
     </body>
 <html>
