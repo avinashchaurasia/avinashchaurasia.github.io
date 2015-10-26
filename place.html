@@ -18,14 +18,23 @@
                 
                 $("#content").empty();
                 
-                var url = "https://maps.googleapis.com/maps/api/place/nearbysearch/json?location=" +  loc+"&radius=500&keyword="+myselect.options[myselect.selectedIndex].value+"&key=AIzaSyDamwukThA0LymfPgknEzau6AbjIUZFWDs";
+                var ur = "https://maps.googleapis.com/maps/api/place/nearbysearch/json?location=" +  loc+"&radius=500&keyword="+myselect.options[myselect.selectedIndex].value+"&key=AIzaSyDamwukThA0LymfPgknEzau6AbjIUZFWDs";
                 $("#content").append("<table class=\"table\"><tbody>");
                 
-                $.getJSON(url, function(data){
+                $.ajax({
+                   type: 'GET',
+                   url: ur,
+                   processData: true,
+                   data: {},
+                   dataType: "json",
+                   success: function (data) {
                     for(i = 0; i < data.results.length; i++) {
                         $("#content").append("<tr>"+data.results[i].name+"</tr>")
                     }
+                   }
                 });
+                
+
                 
                 $("#content").append("</tbody></table>");
                                 
