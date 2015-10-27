@@ -468,7 +468,7 @@
                 */
                                 
                 for(i = 0; i < a.results.length; i++) {
-                    $("#content").append(a.results[i].name+"<br/>");    
+                    $("#content").append(a.results[i].name+" "+a.results[i].formatted_address+"<br/>");    
                 }
                 
                 /*(function() {  // DON'T EDIT BELOW THIS LINE
@@ -507,11 +507,11 @@
                 TABS -- common for all pages
           ---
          --->
-        <ul class="nav nav-tabs">
+        <ul class="nav nav-pills nav-justified">
             <li role="presentation" class="active">
                 <a href="place.html">Places</a>
             </li>
-            <li role="presentation">
+            <li role="presentation" >
                 <a href="map.html">Map</a>
             </li>
             <li role="presentation">
