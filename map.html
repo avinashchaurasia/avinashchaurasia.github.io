@@ -46,7 +46,7 @@
             }
 
             function initialize(location) {
-                var myLatlng = new google.maps.LatLng(26.970482,75.72273300000001);
+                var myLatlng = new google.maps.LatLng(location.coords.latitude,location.coords.longitude);
 
                 var mapOptions = {
                     center: myLatlng,

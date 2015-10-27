@@ -20,12 +20,15 @@
                 loc="51.503186,-0.126446"
                 var url = "http://avinashchaurasia.github.io/"+myselect.options[myselect.selectedIndex].value+".json";
                 
-                $.getJSON(url, function(data){
-                    for(i = 0; i < data.results.length; i++) {
-                        $("#content").append(data.result[i].name+"<br/>");
-                    }
+                var loca;
+                
+                $.getJSON(url, function(its){
+                    loca = its;
                 });
                 
+               for(i = 0; i < loca.results.length; i++)  {                             //$("#content").append(loca.result[i].name+"<br/>");
+               }
+            }
                 /*                    
                 for(i = 0; i < a.results.length; i++) {
                     $("#content").append(a.results[i].name+" "+a.results[i].formatted_address+"<br/>");    
@@ -45,7 +48,7 @@
                 */
                 
                 /* alert(myselect.options[myselect.selectedIndex].value); */
-            }
+            
 
             function getLocation() {
                 if (navigator.geolocation) {
