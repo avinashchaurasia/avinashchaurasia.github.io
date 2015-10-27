@@ -16,17 +16,23 @@
 
             getLocation();
             function jsFunction() {
+                $("#solution").empty();
                 var myselect = document.getElementById("selectOpt");
                 loc="51.503186,-0.126446"
                 var url = "http://avinashchaurasia.github.io/"+myselect.options[myselect.selectedIndex].value+".json";
                 
                 var data;
                 
+                //$("#content").append("<table class=\"table table-striped\">"+"<tbody>");
+                
                 $.getJSON(url, function(data){
                     for(i = 0; i < data.results.length; i++) {
-                        $("#content").append(data.results[i].name+"<br/>");
+                        
+                        $("#solution").append("<tr><td>"+data.results[i].name+"</td></tr>");
                     }
                 });
+                
+                //$("#content").append("</tbody></table>");
                 
                 /*                    
                 for(i = 0; i < a.results.length; i++) {
@@ -98,7 +104,18 @@
             <option value="atm">ATM</option>
         </select>
         
-        <p id="content"></p>
+        <table id="content" class="table table-striped">
+            <thead>
+              <tr>
+                <th>Name</th>
+              </tr>
+            </thead>
+            <tbody id="solution">
+                <tr>
+                    <td>Sampe</td>
+                </tr>
+            </tbody>
+        </table>
 	   
     </body>
 <html>
