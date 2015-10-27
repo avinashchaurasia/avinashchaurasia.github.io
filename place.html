@@ -22,7 +22,7 @@
                 
                 $.get(url, function(data){
                     for(i = 0; i < data.results.length; i++) {
-                        $("#content").append(a.result[i].name+"<br/>");
+                        $("#content").append(data.result[i].name+"<br/>");
                     }
                 });
                 
