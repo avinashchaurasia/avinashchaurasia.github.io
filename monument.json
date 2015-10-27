@@ -1,0 +1,93 @@
+{
+   "html_attributions" : [],
+   "results" : [
+      {
+         "formatted_address" : "25 Gokul Puri, Opposite Sanganer Air Port, Jaipur, Rajasthan 302011, India",
+         "geometry" : {
+            "location" : {
+               "lat" : 26.811201,
+               "lng" : 75.78317199999999
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+         "id" : "7dda175c2cdc3797d5ea7c65da04a6ad3dc0b61d",
+         "name" : "Rajiv Gandhi Memorial College Of Aeronautics",
+         "place_id" : "ChIJz_YwKW3KbTkRAg5vuU3UQkA",
+         "reference" : "CoQBfwAAAOUAXaQcwswnYHNmHVXmjnmjqaGrxEiFv3-uCVXJpX0DHzVMmS4WT8rnXXC5-JxH6_UkCuivogPirkI0Fnm9MZ4yUHqUEfZXFjylpO7VNbKCbjEI-qNol_LSeRXjCxWC6tOcNqxBZNBQN7zBL72LEzTVPtKqgUh9nHLBtqV6BCedEhCt732FKzdiWz3wUwLBdzeXGhRKZlse03ep6z__1_NDhpOBqIo-3Q",
+         "types" : [ "point_of_interest", "establishment" ]
+      },
+      {
+         "formatted_address" : "Tagore Lane, Shipra Path, Barh Devariya, Mansarovar, Jaipur, Rajasthan 302020, India",
+         "geometry" : {
+            "location" : {
+               "lat" : 26.844676,
+               "lng" : 75.772952
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+         "id" : "af6068f0cc7ac02297c3769710cbe51f48d2a1cc",
+         "name" : "Stani Memorial P.G. College",
+         "opening_hours" : {
+            "open_now" : true,
+            "weekday_text" : []
+         },
+         "photos" : [
+            {
+               "height" : 2329,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/110414547741861710651\"\u003eStani Memorial P.G. College\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRdAAAAGE4OJcGxFzQheOyuX-ewuFA_P0qK-ukZpbyraIBgUzUJr_Fl8v7vaTfSMbTXDJvAlKxfy2KHmTxmUv0f2s2AxWqT7pMguh1URxSlxAqWDIPFN7bAm8MY8vbsshRKUl80EhBTd3ARXLsx0Rj5xh7Y08sBGhTXjG0uJHgeGbXdokW-vrVsStj2Ng",
+               "width" : 2327
+            }
+         ],
+         "place_id" : "ChIJ_____6i1bTkRepYs-60exPQ",
+         "rating" : 4.2,
+         "reference" : "CnRvAAAAHFrA5g7-5dZEbnGWeIJuxzx2w8IwOqdA8_j95PjIa-Df58aeNh7tgfNTRVtOwJGkXCbrXREw77yXVdoBF_Ve7WJ6IW9ryHy689BcTuQxaibhqxQX2Ii7Y5G2343OHoSq0fKBEGy01t6LWUgWCGZLpRIQ_rfhgyjWXfYCepzQBoxiYBoUpdT7w-ab7xAoj8Cxgb4EKDpRnkU",
+         "types" : [ "point_of_interest", "establishment" ]
+      },
+      {
+         "formatted_address" : "Malan ka Chauraha, Malviya Marg, C-Scheme, Near Agrasen Circle, Jaipur, Rajasthan 302001, India",
+         "geometry" : {
+            "location" : {
+               "lat" : 26.913367,
+               "lng" : 75.8028
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+         "id" : "3da5eebc82539ed9fa4ff2bbc4b9d3cede4d4e3e",
+         "name" : "K.C.Memorial Eye Hospital",
+         "place_id" : "ChIJKXwKvq22bTkR8AjcUwYu-qQ",
+         "rating" : 4.7,
+         "reference" : "CnRtAAAA8iXT0zVj5vKVwEtm1Mr5cY_lWx4YG3e21fBlSOouneP0UkzZuMImT6LI_wr4MIf0eqsJU-b_O2H18oJHnJBq2j5ztUypRbdtpLx47CwWzp0NqRDSNHHH-5H-GxXs4XZPv6GnwgkLc-Z0b6V1HPRh9hIQDa6oKDiC_G4TsFDXjNk-kRoUP086vbbjzHFqBUAv24QTjoYzZwU",
+         "types" : [ "hospital", "point_of_interest", "establishment" ]
+      },
+      {
+         "formatted_address" : "Raghunathgarh, Jaipur, Rajasthan 302002, India",
+         "geometry" : {
+            "location" : {
+               "lat" : 26.918179,
+               "lng" : 75.84983200000001
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+         "id" : "1e4da6311cb7b78990deda539dfb02feeb834fcb",
+         "name" : "Galta Gate",
+         "photos" : [
+            {
+               "height" : 521,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/106596320350268238688\"\u003eMukul Singh\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRdAAAA4Fgwb87PWCC_powICOrWTsgg8H3g3UQsuptDham3PS92LuTOg1Ay4Cm6T3zVZRUsn9W7RovyMxOt9tVFK-LF2vlSsAmn3pp9XoU0IhiKrYz5rS-Gf5IIn7VBJyQHY4KOEhBJ-EfKEizXF5RzAilyKk2vGhQfZKqIW8N3ljHwY9vN5bBrOg2aTg",
+               "width" : 350
+            }
+         ],
+         "place_id" : "ChIJb3qghNa2bTkRysBd8XcD20I",
+         "rating" : 4.1,
+         "reference" : "CmRdAAAAlTwvQa_scokFbZxsGfOsc8Vo3rvnluJb3DLFBlQACGK8kyCYw9yPNjX_GdCyhRa0nCH6K1hrg_2Acc9W9idvuw6waF0uwQU8jXt_R8yuFB8umhw8rZol9C_cVODcrh32EhBkSzhemUiLluHt_yhLhV3oGhTM5lypoxvwnWADyukNAeW2XFdWNQ",
+         "types" : [ "point_of_interest", "establishment" ]
+      }
+   ],
+   "status" : "OK"
+}

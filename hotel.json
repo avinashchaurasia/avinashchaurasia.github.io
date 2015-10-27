@@ -1,0 +1,434 @@
+{
+   "html_attributions" : [],
+   "next_page_token" : "CvQB6AAAAMm_OHoaJK-gTBWX2qRLGx1T3jPK5C9ljmx5vbp681HF1MNTD4MNNeRDyCPIRRatZ9rBDXUjhpyKhBPVmq2TWqBBuk28JM0gwGzQskkHVWQg4RSrccUhugCgdgPJVd74HOrxLE_7jVK_LUJY22cYX_MW6aDVR6WJXMt77tnbFwNy67t-XoNIt1odziqs89dSPD05fpmk5klbnn0z2pKF6W4oY0UuFYL2imad4BYnTmjK_LTlg8zPXf6Tak635ZXmM6wBnYKShMfIxC_iMw3D9Ad26Z4Waj1ViXpzFoD8O3CcIEk9xgKrwGeItbStLjsucxIQnOvokWw1P4KqWIuZ_H2P5xoURJbryS7ZU-0_oNh7SxuwsNfkE1s",
+   "results" : [
+      {
+         "formatted_address" : "C-39,HARI MARG,OPP. KARDHANI SHOPPING CENTRE,NEAR POLICE STATION, MALVIYA NAGAR, Jaipur, Rajasthan 302018, India",
+         "geometry" : {
+            "location" : {
+               "lat" : 26.855449,
+               "lng" : 75.813264
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/lodging-71.png",
+         "id" : "ef766aa91340743d8dd3580c4c4e677f65752ae6",
+         "name" : "Hotel Rang Mahal",
+         "opening_hours" : {
+            "open_now" : true,
+            "weekday_text" : []
+         },
+         "photos" : [
+            {
+               "height" : 1224,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/105979598608202581378\"\u003eManoj Kumar\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRdAAAAMMau5gcc0T6ODABBjOPyK-29zfy25wpjVo0_-_IvBTY0BiOLw4e361KgmrzWyxwQOf3OQwnJm8RgjT5vMv9x_83RdXrRl9wzhLqDSLAxJodGk08bUMOZkYhV8WWwwRPAEhCZT7cVlK3dkGe1qH4b0-dgGhRhUXrDFNzrRus6SOuQ9wsWoS4mVw",
+               "width" : 1632
+            }
+         ],
+         "place_id" : "ChIJVwVPjHO2bTkR4rKTnXmaV7g",
+         "rating" : 3.8,
+         "reference" : "CnRkAAAAOjccex74f2N63jEUNaAxPaty5mrs4Qxji8ia9br_KoZrsLvJgM6hd15ymMRcd9sXgm3sCNxtULsuMMPA205nNqzof9wrs419zsabKGr6a-uEEuALGcy861bqukfTXsNLHuwsEOlMURBPljGN2vY0tBIQdIC7gPA-dRXt2OvpMVvBcBoU2mCoFcba4e6iEBMLMM4RnIK6VYI",
+         "types" : [ "lodging", "point_of_interest", "establishment" ]
+      },
+      {
+         "formatted_address" : "Malviya Nagar Industrial Area, Malviya Nagar, Jaipur, Rajasthan 302017, India",
+         "geometry" : {
+            "location" : {
+               "lat" : 26.854987,
+               "lng" : 75.83232
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/lodging-71.png",
+         "id" : "677456c74c3b31029da3c3dc9e1941c91d71b0e9",
+         "name" : "Hotel Hill View",
+         "place_id" : "ChIJB1oqQ0C2bTkRTb0and7w7Qw",
+         "reference" : "CnRiAAAASjQkqqT5e_8yK5sG5mr-Rl3yNQpuwZpKGku-lLMyw0Uc9h7rPPA8G_BmUZaKUT1O6QSFaA7bh78igHYKN27ME-TSXph8ZRj9A-SKZTKCuOGlkqG7HulKjp3pQJ5hw8Zqx1KFiY1mYUVWM1HMqw09ixIQhuriB_nYkGsFU0PvPeoyCRoUyGM1y2-r85tDhCGUdPARoisPvzU",
+         "types" : [ "lodging", "point_of_interest", "establishment" ]
+      },
+      {
+         "formatted_address" : "5 Friends Colony,Calgary Road, Malviya Nagar, Jaipur, Rajasthan 302017, India",
+         "geometry" : {
+            "location" : {
+               "lat" : 26.856092,
+               "lng" : 75.82074
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/lodging-71.png",
+         "id" : "9fb316b7f30a319f7ef22b9f1a13dcbb84d79ee8",
+         "name" : "Hotel Apple 9 jaipur",
+         "opening_hours" : {
+            "open_now" : true,
+            "weekday_text" : []
+         },
+         "photos" : [
+            {
+               "height" : 1161,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/105118457207823348345\"\u003eHotel Apple 9 jaipur\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRdAAAAN_rphCenOvuAYkvB6vNFmnchGdKI6OvyzKGXLE4CWV8BHfACkeT58_l2xFiZRUF90DKT3ErkM6ukH1nDC2P9jdTJcC1egoyLsSZVF2BwHjwcR3M5ywcdkQ3_aSJuY1R6EhBwtvnWf010hk5mybcxkUoEGhSCTSDFODy0VxnOp-I34DjCwSfK4A",
+               "width" : 1161
+            }
+         ],
+         "place_id" : "ChIJgWC0t222bTkRbpWSsQwUArE",
+         "reference" : "CnRoAAAAu1UsAHc-fEuq1R8NEFamzh-OXtA96bzc6hLf0BWaJvvnpgxh6TB_IKYL8ae12ThABkD0VEJ9Ejzn_dNXPFTxtSz7XmuplC-6Cw9U6qBffsRVyXrsJpZ3RugUxikh3eVqu6XYMEQ4rTxhax5HH30bUBIQVDVpD9MwYsBve-qk-3-xZhoUHvgfuf1YtTqDK16UVmRXyCOB1FU",
+         "types" : [ "lodging", "point_of_interest", "establishment" ]
+      },
+      {
+         "formatted_address" : "A-6, Mahalaxmi Nagar, Mahesh Marg, Near Malviya Nagar, Behind World Trade Park near jaipur airport, Jaipur, Rajasthan 302017, India",
+         "geometry" : {
+            "location" : {
+               "lat" : 26.853003,
+               "lng" : 75.807047
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/lodging-71.png",
+         "id" : "b99e4d0ee98916e967d8803ae9655be0346ea7a2",
+         "name" : "Hotel Soni Space @ 999 only",
+         "photos" : [
+            {
+               "height" : 1288,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/104303304850079427894\"\u003eHotel Soni Space @ 999 only\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRdAAAATGl4QAalolOaIpN9WVxZgw1wmbkvgMKJu58pkRnM7rcX15d0ahhLqFwfdLmnTBPVE0lMNry834yzZpX3G_7_VT3Tr-Yqm3LU-bP4yZKaATSEnU9pbrZz9mvQQ-T8ead3EhAyKgjlHtcjsBslj-aB45-yGhRshoTBjdZwdhaBy9lc1ZPSiwpmzw",
+               "width" : 1284
+            }
+         ],
+         "place_id" : "ChIJLzTZnt-1bTkRJ2ucFQXmNJM",
+         "reference" : "CnRvAAAAwbksCoE-mMyGlFDymY4ATekP4mdQZKjCg6e5vU4XYhcw5SWTgs8i-DsFpyzZLRkSZwAsOW71Vf4Eqti39B7Ua9iS_Ekm_sXdGZDrkX8yqh0ZRFpnHnZ6eTYZpsrlOpjalVAAdUxH7mVC9lXYngI3hBIQM_I4GTgXzrJYINkZWqz8RhoUSp6hib2o7k9ayONB20T1TxoyxBA",
+         "types" : [ "lodging", "point_of_interest", "establishment" ]
+      },
+      {
+         "formatted_address" : "14/82-83, Nithi Nagar, Opp. Capt Amit Bhardwaj Petrol Pump, Sector 14, Malviya Nagar, Jaipur, Rajasthan 302017, India",
+         "geometry" : {
+            "location" : {
+               "lat" : 26.846619,
+               "lng" : 75.80904200000001
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/lodging-71.png",
+         "id" : "999c2f11b1600a46e3b82b724a1fac67f42444a9",
+         "name" : "Crown Plaza Hotel",
+         "place_id" : "ChIJExaDOAq2bTkRwDU-VXRk50M",
+         "reference" : "CnRkAAAAn_HKNSpZhm71npGoX9ESaJWZIlIGmFIPIKJPHvVMDLL_5jRW136peDDZR3UPZeBux-aXlToylPgudakQJdOlN6Np5ktM4_qoLwpdSiHUBYi7H_6zicp1DFMKNc2YQq70bE8SlecaxOBQvrPGIvnsmBIQIXe4lCZEKGQ23GIhevR9XxoU6C64hf3xhun06VEDRAUBephpuqE",
+         "types" : [ "lodging", "point_of_interest", "establishment" ]
+      },
+      {
+         "formatted_address" : "5/301, Girdhar Marg, Malviya Nagar, Jaipur, Rajasthan 302017, India",
+         "geometry" : {
+            "location" : {
+               "lat" : 26.847215,
+               "lng" : 75.80647399999999
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/lodging-71.png",
+         "id" : "7e7054acea549bebe28584e5291fd936cbe255b6",
+         "name" : "Hotel Ethnic Residency",
+         "opening_hours" : {
+            "open_now" : true,
+            "weekday_text" : []
+         },
+         "place_id" : "ChIJO5i90OG1bTkRKCuBJ2N4V0E",
+         "reference" : "CnRpAAAAMsHVizy7rUXLNSrgcgDV-BMZiZx3TV0uOoo_RPU9KZnbs60tkZs7XWjfCVPPc7mhFlgai28434Cjr1X-2ZApyW60iQqFIQZe90pGt8fk4G8zTlIEAtjlUHg9lvQXLvQIw6rPCw0_2RunFLahdj1WOBIQsFiF56eH6iiFCtvzJ2FB-RoUDD16wOqe7Q9TKrxluTkRerVjxDo",
+         "types" : [ "lodging", "point_of_interest", "establishment" ]
+      },
+      {
+         "formatted_address" : "D-823 Sunder Nagar, Bhind Fortis Hospital Malviya Nagar, Jaipur, Rajasthan 302017, India",
+         "geometry" : {
+            "location" : {
+               "lat" : 26.863344,
+               "lng" : 75.807114
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/lodging-71.png",
+         "id" : "892e1903a298433af87ad664270875c10a0d5a1b",
+         "name" : "1589 Generation X",
+         "place_id" : "ChIJkw7ImuG1bTkRPmsP0R28pvc",
+         "reference" : "CnRlAAAAeOPiPQ4wp_Lcp2Io7xMgMG6IUZ5M3aToNvUm7iDLM312Js9CIGQjywrw87fnfyhsoZzJD968z3YcPUWpQCQsqgxkfkvNNiip_8Gd9oDUWSM3ksuAW9SJr3LYYodqtwdC78k-LUFJCk07ZmKMAkM3VhIQHV11eE1cMc8FLhVd1P29LRoUNufQ1j4z6W7tDgncJIQHM9ZJFkQ",
+         "types" : [ "lodging", "point_of_interest", "establishment" ]
+      },
+      {
+         "formatted_address" : "Opp. MNIT College, Jawaharlal Nehru Marg, Bajaj Nagar, Jaipur, Rajasthan 302017, India",
+         "geometry" : {
+            "location" : {
+               "lat" : 26.865061,
+               "lng" : 75.806742
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/lodging-71.png",
+         "id" : "b860f15e2960f3a58e9bcb5138b934b33cb39270",
+         "name" : "Red Fox Hotel Jaipur",
+         "photos" : [
+            {
+               "height" : 667,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/105528236457567842715\"\u003eRed Fox Hotel Jaipur\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRdAAAAuEtGV5QlZdxFAREW9thNB03jk5lA0DrrQSxhUN77njGC-YNpuma_8CnKdeCqc0kuPcHzxbXWDwWmetiAEGh-dXxtIWl8-u6JB5YG_nP0I-qvyI2BIZWqzhcm32QVedCsEhCXo-ejnAH_9DEFNI6BbV6LGhSuCM9L7W0-wY1cIeGIiYjueGIIeQ",
+               "width" : 1000
+            }
+         ],
+         "place_id" : "ChIJHZxsfXi2bTkRMsMoogz863s",
+         "rating" : 3.1,
+         "reference" : "CnRnAAAAKZ130HwKr8BUm1EYxEXkA-BIS9ffB5fZq9dn73y383QWIIFAOSs7cXs0MQ2A94YzrjklqAMhWvcZWFbJRwPKbLurICVA7OQFLfUOYMUDiTdFp_ALxjNxMqOf0qn0LcQmrVxohNY9mjkfhmDImXwExhIQ7lpDw4VWnvuP2pfXMLufLhoURTY2soMQIBv3T6RUNqLwJ99W_30",
+         "types" : [ "lodging", "point_of_interest", "establishment" ]
+      },
+      {
+         "formatted_address" : "12/26 & 28, Malviya Nagar, Jaipur, Rajasthan 302017, India",
+         "geometry" : {
+            "location" : {
+               "lat" : 26.845898,
+               "lng" : 75.812476
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/bar-71.png",
+         "id" : "1988eea0052bc73e3e4fd5bec1025ef14019da94",
+         "name" : "Hotel Punjab In Pinkcity",
+         "opening_hours" : {
+            "open_now" : true,
+            "weekday_text" : []
+         },
+         "place_id" : "ChIJ50n8_gu2bTkRccocf6OwZTo",
+         "reference" : "CnRrAAAAkRQXsoxeyeom6OGAlMqG6H0oUDcHq0BmcCNlDLhpUPRUwdfpcv5ZCMla_C90PtWZkEaSsfHBDV4HmGT_fUhNNwd8gqHHCIRJhv1H5-WHgo9Mu2Qb0mZ1IX6Pj6q1mjKpXwuVK08KlDivvP5sRoVzfhIQ6eoBNl63ZX1I-oEmzMqpghoUJ0MN3bqS6eVN4NBXj0qw9XVOdIk",
+         "types" : [ "bar", "lodging", "point_of_interest", "establishment" ]
+      },
+      {
+         "formatted_address" : "Link Rd, Malviya Nagar, Jaipur, Rajasthan 302017, India",
+         "geometry" : {
+            "location" : {
+               "lat" : 26.844432,
+               "lng" : 75.8081
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/lodging-71.png",
+         "id" : "083d534c848863aba29bcbc7ee83d8d25ecac611",
+         "name" : "Hotel Deep",
+         "opening_hours" : {
+            "open_now" : true,
+            "weekday_text" : []
+         },
+         "place_id" : "ChIJW3Zz8gm2bTkRG1KV0dGLLbc",
+         "reference" : "CmReAAAApfX3koF2rJcW1ZCRdDVv0WG57-FZEYD4Phmr_p2ZQnt3lCMQRTc_xa2_Ycnw3Pl3_rFa2L0nP_7Du-L3k06AR5xDDBd1gLdL0QNmvy98Rc5FR2o9hdpJKXZOSqjQDKi0EhDob4xY0AbIggpJt3J_ppK8GhTltalWX0fN3FmffU4DDjaZQVU29Q",
+         "types" : [ "lodging", "point_of_interest", "establishment" ]
+      },
+      {
+         "formatted_address" : "Modal Town, Jagatpura, Jaipur, Rajasthan 302017, India",
+         "geometry" : {
+            "location" : {
+               "lat" : 26.844785,
+               "lng" : 75.821535
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/lodging-71.png",
+         "id" : "b4678dddbd129fd668703be11865dd86b9a0389a",
+         "name" : "Mini Mahal",
+         "opening_hours" : {
+            "open_now" : true,
+            "weekday_text" : []
+         },
+         "place_id" : "ChIJNXJAChG2bTkRx0X5LIudwBQ",
+         "reference" : "CmRdAAAA5g14clzT5_pdXTlJPO4TqJKrIjRQmraX_oc08ChoQTA-QMrIA4uqquGgALW-mRl1S74VddgR-YH8kZ2ZEtOccYQOh-tFzIUEx6v60W55Xx0cVz18zIGj8zJ5zs3XZBf_EhAjm4j5onjrP1MIe2dTjcD9GhRVB9oMdhc9IyXSyk7Bxi81od4eZg",
+         "types" : [ "lodging", "point_of_interest", "establishment" ]
+      },
+      {
+         "formatted_address" : "Near C2 Plaza, Ahead Apex Circle, Jhalana, Malviya Nagar, Jaipur, Rajasthan 302017, India",
+         "geometry" : {
+            "location" : {
+               "lat" : 26.857255,
+               "lng" : 75.823798
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "8ba23900ca59931ebfaca4228d690998c4177daa",
+         "name" : "Deepak Sharma Hotel",
+         "opening_hours" : {
+            "open_now" : true,
+            "weekday_text" : []
+         },
+         "photos" : [
+            {
+               "height" : 359,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/107246000765900872953\"\u003eFrom a Google User\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRdAAAABKAzseULi6HVkqS9Yx_qG-5B-x85WMoLJifBGsGd4L838DqoWHnKYBeQmksvseBPtB4PF5EjrdMuyfQ755tPZQ6EItjs8aGrHL0qHe7gRJrPF4ncgNWEVkAP-YuzD4jUEhAdY83GopzGQ6C2YSuOygEyGhRX8gqQO22eMujPNPLPq7VGy-g4qA",
+               "width" : 359
+            }
+         ],
+         "place_id" : "ChIJzSUiA2y2bTkRNSuFZzrYjgM",
+         "reference" : "CnRmAAAAqZNlbGi-AfC_V1Zhkd2Bny_jaMKpwU2VrceP7Ra4-lVGUkG4o09oUQRJM3mJodVf19AkgoFjqm3o792pYTVM2DHYe0LJViuF6oopCwQNcypIUdgvMkHwX1Yhv9maSIVx_LNO2Co2RS3MLuDqkSozaRIQcRaabijNvQVA9MdL46-MthoUbwew5EiLdBTVI6c2HaOX9aL1fDc",
+         "types" : [ "restaurant", "food", "point_of_interest", "establishment" ]
+      },
+      {
+         "formatted_address" : "6-C, Industrial Area, Near Apex Hospital, Malviya Nagar, Jaipur, Rajasthan 302017, India",
+         "geometry" : {
+            "location" : {
+               "lat" : 26.854248,
+               "lng" : 75.825649
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/lodging-71.png",
+         "id" : "761b6439c6d3d60d105b7a8a1e7e3ed5109e9d9f",
+         "name" : "Hotel Grand Harshal",
+         "opening_hours" : {
+            "open_now" : true,
+            "weekday_text" : []
+         },
+         "place_id" : "ChIJ_WYSbGu2bTkRM0KAxgbpAcc",
+         "reference" : "CnRnAAAAHKQ2RgM1pcQ_DkwD2YJezjTxKF4ynx4n_l-WgYRa8L7FalIRnUyQ0bS5wPIfEyJln0a66jPMpuuwFOWEVWqeuuQggKjigVIEzkNwhhVFb-AsSvTxZoUbiijVtEf8mXd5v3Qoh9EUVJNJEpmGKvzdEhIQOvrloRG30t3bh6I4E7QZgxoUUnEkit9XETL3uLi5vhNlQJ-BpC8",
+         "types" : [ "lodging", "point_of_interest", "establishment" ]
+      },
+      {
+         "formatted_address" : "A-6, Mahalaxmi Nagar, Mahesh Marg, Behind World Trade Park, Jawaharlala Nehru Marg, Jaipur, Rajasthan 302017, India",
+         "geometry" : {
+            "location" : {
+               "lat" : 26.853305,
+               "lng" : 75.805273
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/lodging-71.png",
+         "id" : "b1541fae723c35ea9b50dd0acb4f766e04ebd56b",
+         "name" : "Hotel Soni Space",
+         "place_id" : "ChIJLwAAod-1bTkRwI7dzM89aO0",
+         "reference" : "CnRkAAAAhNUGxh6cIftNzes2kZQCTcGvEMj9WyBEHU1IiSjzup-MLX5SkpvWv4-ODX7ZLJu2mLih-KQ6DwSUQikErtcvsTxqz7gbgSd91k4SGktrylJpLA9wMk4A6-52Raet7UPmG2zbxE8V8SXoEIyDyeUythIQvXa7ehKuvL0v51u2rArmMhoUXD0eYx1uVFg0aTAEBzoDORb6xiM",
+         "types" : [ "lodging", "point_of_interest", "establishment" ]
+      },
+      {
+         "formatted_address" : "83, Girdhar Marg, JLN Marg, Near Fortis, Jaipur, Rajasthan 302017, India",
+         "geometry" : {
+            "location" : {
+               "lat" : 26.847675,
+               "lng" : 75.805975
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/lodging-71.png",
+         "id" : "32017c27bbb889bd2c85993b391c92ec7d1a24fe",
+         "name" : "Hotel Royal Empire",
+         "place_id" : "ChIJWZJDzeG1bTkRWRhJ0DwS3DI",
+         "rating" : 3.5,
+         "reference" : "CnRlAAAA1F4fVg9xPNtW9BFghiQVe4BmI6_TLVHjWCKStIYffU2SJEqTT0nwbD0CBVADGBO7bRbmFGDHtPiadZHFsdfVg9_g3Mg9C7E1BQaHsxG93SQu5kf6DDLG-aB3YD_jtnGttAY4pHlLgLfbJGtu4u1XABIQ5urvQV0Ttb3tZz4q29-oOhoU0YEw4uqZJF1Rj-CPc8oymfzA8iw",
+         "types" : [ "lodging", "point_of_interest", "establishment" ]
+      },
+      {
+         "formatted_address" : "B-18, Girdhar Marg, Lal Bahadur Nagar, Malviya Nagar, Jaipur, Rajasthan 302017, India",
+         "geometry" : {
+            "location" : {
+               "lat" : 26.848085,
+               "lng" : 75.804389
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/lodging-71.png",
+         "id" : "4cd7993b5bdf9bd1339adfab28bcb48be52b3a0d",
+         "name" : "Ritz Residency",
+         "photos" : [
+            {
+               "height" : 76,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/103486565330343549380\"\u003eFrom a Google User\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRbAAAAP6dp46vWl6j9Sea2Xg2Dts4w-HbOhRlXZwVY0JEKAi9dhoVRhF7h7TT6Kq3X3C8F4zduCdS9QMq4TPBsNPkdOK0gobGuEYtTC7TwParl-U5k_boldgSQ9_xATifz_8I5EhAIFT7Nga6YcSwD9a--KKfuGhTIYS61Trklta1khOtjoCqFE3POeg",
+               "width" : 112
+            }
+         ],
+         "place_id" : "ChIJXQxVUeC1bTkRt5QcZ_6uRYw",
+         "reference" : "CnRiAAAADOiOzXctCFB4NDGWX-eOJuu-7braMTa3ArOLbajJLmfoPTBm9J7HlH0vVxsAYZ5F0YmHQ0xJMNGitbx1GqJZcmQk5mqrzVk6NOGLWvRVU626yFVs8gj4-MPy4siirgGMetQYA0N7EA0SG_ZZgmwzKxIQgAaT-Y0SlIfw18b6P93HERoUr-5PZ_lQz3GF4t_ktRumhg7SSos",
+         "types" : [ "lodging", "point_of_interest", "establishment" ]
+      },
+      {
+         "formatted_address" : "D-Block, Malviya Nagar, Jaipur, Rajasthan 302017, India",
+         "geometry" : {
+            "location" : {
+               "lat" : 26.854532,
+               "lng" : 75.808244
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/lodging-71.png",
+         "id" : "3b934b281d637bba22687108f3666143667c9aaf",
+         "name" : "Kanha",
+         "place_id" : "ChIJObKOl3W2bTkRbN6bSuhh194",
+         "rating" : 4,
+         "reference" : "CmRZAAAAloHA8wGR8v1_uWrv8ATnnQtLenSqHCbon6g272mF4LsdWdQmkdEC40qAfE8bGv1BNHenB84jYLNhzmj_KlQT5paeU10dwUZiyasGkD9ipmMKIttT_E-J10K3tyLfn_W6EhCyVntTUY89MuAk9eOuGLcUGhQZ4Ij8BD5e2CDVx_3Eqh07V3igdw",
+         "types" : [ "lodging", "point_of_interest", "establishment" ]
+      },
+      {
+         "formatted_address" : "A-18, Saraswati Nagar, Near Gold Souk, Jawahar Circle, Malviya nagar, Jaipur, Rajasthan 302017, India",
+         "geometry" : {
+            "location" : {
+               "lat" : 26.839068,
+               "lng" : 75.809338
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/lodging-71.png",
+         "id" : "10fac5460150d2d59c0336e7e0e4b650e11346db",
+         "name" : "Hotel Siddharth Palace",
+         "photos" : [
+            {
+               "height" : 511,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/103938574177453075758\"\u003eHotel Siddharth Palace\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRdAAAAML453s8ODACRqo-fhrCpZCiza2Iw3MoNhIOJtcY4ukMHbZt70fCVFzaTcBUcb16tozHAO79gYGReTelNYzo6Q9n0YQCLlUwi0ww9h-CgEOGqs937MHrERQvSV91YWF6qEhD3V0u6rUKnz4g9IrlI5CRiGhQf9H1pX0HYzNaktU2QvtCOXEg97w",
+               "width" : 537
+            }
+         ],
+         "place_id" : "ChIJ1SuO6ge2bTkRI0tvu178oqA",
+         "reference" : "CnRqAAAAikQbtyApZB02guRwS7-Tr4YlFTs6lfIA_VPcPw5cyZi1fZaGSXYNVbDWokFlnLck-W-a4bCxMoYEz6DB7brzeDjXkpApd3t0f1WxqWzjnA-HnAPbyIfW5f_puy-N9bSanY13jMDNNaQcWeoN9-qECBIQoGv8OYWystLx04WcD2wWKhoULKjOsIhgaRnyJaVYvdpSJX04Tw0",
+         "types" : [ "lodging", "point_of_interest", "establishment" ]
+      },
+      {
+         "formatted_address" : "J.L.N Marg, Adinath Nagar, Jaipur, Rajasthan 302017, India",
+         "geometry" : {
+            "location" : {
+               "lat" : 26.85184,
+               "lng" : 75.80270299999999
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/lodging-71.png",
+         "id" : "303e997f923311d088c8121f41e53156438b3416",
+         "name" : "Hotel Taran",
+         "photos" : [
+            {
+               "height" : 1360,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/106687263690254972480\"\u003ehotel taran\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRdAAAAsezfYHOIk8Epi7mYTTedfbsxtIQIrDJ710NGKlt6mXbSoIMu1L9GoXSIegD6wGHnHki45iypuPlhpZhlPiyZmeZjpp2oBTP-WVfvkgZ75d77cMTIusc5fNYV2iF4E9cjEhAMywD8ALNQnJOq9319fGS-GhSxMGCgy6_Qsk8aeotrhVEQbg_VlA",
+               "width" : 2048
+            }
+         ],
+         "place_id" : "ChIJAQAAAHS2bTkROAYJbVxJRqA",
+         "reference" : "CmRfAAAArPP6b9XNgHBjSCmfCe5DP466GU9IfZTmzAW97EAgUAqyXMHlLAV_wbCpw3wGmHnpaN0pWpfrCtiGsGMnfIaaTqreoDJTo-HHG767Pkj8w_f8B6Kcqd19P3QURQrPseaaEhBgonVRf5iLOI5cugkpf54tGhTunHV5h4u_CovcYtTiUUT389LIrA",
+         "types" : [ "lodging", "point_of_interest", "establishment" ]
+      },
+      {
+         "formatted_address" : "2B & 2C, Jagatpura Road, Near Jawahar Circle, Jaipur, Rajasthan 302017, India",
+         "geometry" : {
+            "location" : {
+               "lat" : 26.840119,
+               "lng" : 75.807399
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/lodging-71.png",
+         "id" : "c2ce073e819320ed57584fe8f32f8c4760b8dca3",
+         "name" : "The Lalit Jaipur",
+         "photos" : [
+            {
+               "height" : 1200,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/102765460426182205363\"\u003eThe Lalit Jaipur\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRdAAAACcv-sEtSpNueGb2RHHVCAeWzGknZr34Eh8vKszBB-kIWwZpXqM8p-Of_3RuN_EmG8Vy6cAnHAHeS608forRvvK0haLjfKwi2gy8dp_w1Mh4yyE52-OIsKCV6Gq2PmiLPEhDWpIKaP9Hw97hqeJfTldEvGhSWzxEH66ZEB1kDDus9ubnjYga7Qw",
+               "width" : 1800
+            }
+         ],
+         "place_id" : "ChIJXYcrGgi2bTkRD9QZJx7VX6M",
+         "rating" : 4.5,
+         "reference" : "CnRkAAAA2_2bZKtPEEH0uRd1HB-RzlGWtm7_2RnCg5VQnipT5mek_X4fVWK1XQ_7IGLl2AtlE7Q1NyhRsCIWBj5bbmohqYE5u-2SUI0DSkLOdSMe8GrkSPz28w5fRygAC-SKWYkuDs4MJkfiwqi3RBgByBAVBhIQPYaikytdNrC07qQb8_RCQxoU8sY_RaWmLncID1QW4dcs1l2r6pk",
+         "types" : [ "lodging", "point_of_interest", "establishment" ]
+      }
+   ],
+   "status" : "OK"
+}

@@ -1,0 +1,305 @@
+{
+   "html_attributions" : [],
+   "results" : [
+      {
+         "formatted_address" : "Ramniwas Bag, Adarsh Nagar, Jaipur, Rajasthan 302004, India",
+         "geometry" : {
+            "location" : {
+               "lat" : 26.911602,
+               "lng" : 75.81944
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/museum-71.png",
+         "id" : "87923a9d4f10148e171eeb604c0b538b2f853e77",
+         "name" : "Albert Hall Museum",
+         "photos" : [
+            {
+               "height" : 1224,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/116845379946029226341\"\u003eRajendra Atreya\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRdAAAA-XYLtqJxk-JpIbEJn7q__W_i-ixUDgvcp7KSC9eax-DJWjrWrdcnsBvIJynKPpGQrGstlyhpyAahNhXIXKl2izgDE5k0kQ3Jz0wwQ7iKIcJwZiQfvUHT0dL7yEMgLLAEEhBWnuoOwQ_vZX68gG_HJotrGhTbNz2o7Wy1FRfairxvKGVtnA5F9w",
+               "width" : 1632
+            }
+         ],
+         "place_id" : "ChIJXyn5OrC2bTkRaGk8EzNDuwU",
+         "rating" : 4.2,
+         "reference" : "CnRlAAAAZy0sH8c42cld1Hq7tgk2CBHZ1pjfG6XwwoTAc7Co7uUBy6KXFoSmKERX6EaXMb_w8DCCSucYcwVODPgIEqk3A45Pf8TZCG1wokzcRXSn7Sffq47eVG0WN4XzTbhu-4KjNryVX8nL7_qIlrYDoOCKaBIQbbx5JV2AaO56vrrQyrbPRxoURets5TCmcsywUuZ0TFCRf_xtaqk",
+         "types" : [ "museum", "point_of_interest", "establishment" ]
+      },
+      {
+         "formatted_address" : "Trimurty Circle, JLN Marg,, Adarsh Nagar, Jaipur, Rajasthan, India",
+         "geometry" : {
+            "location" : {
+               "lat" : 26.900047,
+               "lng" : 75.817294
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/museum-71.png",
+         "id" : "88128f3691c1359080afda98e1b9d6829464293e",
+         "name" : "Dolls Museum",
+         "photos" : [
+            {
+               "height" : 1024,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/113337207342748459623\"\u003eRavindra Singh Gurjar\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRdAAAAC6XLNJJCyoaibR3TGlF9VJhb1P3mdJAIQhA-iRs7sgEZE5VzGZ_2DUr2H2E7YSVEW2K2WzGEnT3F6VKIiyHJLaqi8IJNr6BPPrKKTYejJBZPh0G_qgRjclpVxyF8yFmpEhCOnKfZoPY9CYkIl5RnnhVJGhQw1rjOGQKUw--Z1lM1ehzPQU20JQ",
+               "width" : 768
+            }
+         ],
+         "place_id" : "ChIJJTH_wqK2bTkROfdwVZy6KHA",
+         "reference" : "CmRfAAAAPG4WBllzB_uXRLKb-yx0c9K0GE8MHG-tnIzIjhCsOJ-EdTPB8NLgxbW5HPA4v_k6ZhqKzuSTqh1OpBodJqVOcDfhXGoTsVjAKlquJKd4KMqi-lpR3EJ-fwz140sCvnxWEhAl3yIgDHYWHWCSulBKHNhMGhT3rvgdZY5YPaZN6u5nWFjSIeeIYA",
+         "types" : [ "museum", "school", "point_of_interest", "establishment" ]
+      },
+      {
+         "formatted_address" : "Adarsh Nagar, Jaipur, Rajasthan 302004, India",
+         "geometry" : {
+            "location" : {
+               "lat" : 26.902233,
+               "lng" : 75.819461
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/museum-71.png",
+         "id" : "0ba0982582dc84fb4a966f148f8db650453c5b6a",
+         "name" : "Museum of Indology",
+         "photos" : [
+            {
+               "height" : 1356,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/107150992262061272403\"\u003eSharad Sharma\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRdAAAAk8tFTzMiKYjLhjZ5zOQZmlPihupwNQP-neNiRL7soDqWSQ4jx0KiOezbHAKX93y-QEvbWdtgfdcy19HO8NBARh77Rj7SLNu26eVPKR8uRKBBcG0G6-bWa9PKP7VJkaFyEhC2g4IB8CMKrxMWgiOzfgRgGhQiQMl1Fp_wgwRi8nWzuM61JLBH4w",
+               "width" : 2048
+            }
+         ],
+         "place_id" : "ChIJBQn0xry2bTkRzrxLsg6K7yg",
+         "reference" : "CnRlAAAAtfsP-ecUdfjP0qR3qMsjGbKBq8wL-a4ll1XPSLSX2A8zXKn1xjX6WG4d3u0ShTm-smq3XnAk1g8DciW8eHekKLv4bucR72KkSIiXV376S0DgoyzGqbt5fZ6q-j7vhg6vLiqVT4h_mttrWTzzSrFiDxIQ74FU3bv-KIJP3_r7pbYrfBoUCTrHgBelLqs6s6oV85Zg-jq1I4U",
+         "types" : [ "museum", "point_of_interest", "establishment" ]
+      },
+      {
+         "formatted_address" : "Choice Gangwal Park, Near Medical College, Jaipur, Rajasthan, India",
+         "geometry" : {
+            "location" : {
+               "lat" : 26.91247,
+               "lng" : 75.787274
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/museum-71.png",
+         "id" : "9327d8cf023e775eff8b38111caa11c1dd518238",
+         "name" : "S R C Museam Of Indology & Universal Institute Of Orientology",
+         "photos" : [
+            {
+               "height" : 1356,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/107150992262061272403\"\u003eSharad Sharma\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRdAAAArIjZMI4C6-jjKAJYOVSdU2mpgXBhJUoub90zPGka7tatLgmzU3RnPKS0MtDJU2c3rDp2-DPZq4Etjte1pel03Yc5DkMA1eNXnbl0GvBgEbq-PJ-JKPv6VVh6yFH40-6tEhB-_egJjyjMKNUoZBW-vRj9GhSEqLz6BDKN47Pl1g71d2XWreWBig",
+               "width" : 2048
+            }
+         ],
+         "place_id" : "ChIJKXwKvq22bTkRcIoQLDlocW4",
+         "rating" : 4.7,
+         "reference" : "CqQBkQAAAPJ2CX2-t0-E54MzyXQSt1HfmPSwp-Rytv1acKj_JSq5ImDsv8MnhOAXsMcDv0R7Ygd5tDZtJICARGy77-Kc1x5hdAncdSr4POVELgR6vxVhR2fX2OvOPcMz6OTlflZN8A8MUf51Hq2RPRTzFgPEjUcQND_rKnTpinJ91t9fKQcEJkjyLD8_cGZUWRMEqX3TgZiXe10YuTIN0OLM78xjDH8SEPN5pQHyhJeBOICfPyG_4e0aFOlxeTidJP6HpUWTxOR5Dm49TgpE",
+         "types" : [ "museum", "point_of_interest", "establishment" ]
+      },
+      {
+         "formatted_address" : "Shop No 27, 27, Dhula House, Bapu Market, Near Dhoula House, Bapu Bazar, Jaipur, Rajasthan 302003, India",
+         "geometry" : {
+            "location" : {
+               "lat" : 26.91651,
+               "lng" : 75.82352
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/shopping-71.png",
+         "id" : "1aa4fde33aafb360b1e884c475f0cba13e5310a3",
+         "name" : "Cotton Museum",
+         "opening_hours" : {
+            "open_now" : true,
+            "weekday_text" : []
+         },
+         "place_id" : "ChIJA6h1y7O2bTkRkY3qWuhcG70",
+         "reference" : "CnRhAAAAmK4d_EArG5pdCHrpfEax1fe1LuWlr-7Og0Ivfh1NiRXtih03jQ5rLR5tumjedz0SfDovNklkm_MGsBJXNHnRdYcOXD_oWcQ7njt0PAeU7uEux9QyeIflayjnJJpeZ8hFE_cb88zkIgFprVnqz0K3bhIQJZyPTo1uxm4af-elmm-5WRoUW2nQc5yoQB2ypkQADP-lhgc9mF4",
+         "types" : [
+            "home_goods_store",
+            "store",
+            "museum",
+            "point_of_interest",
+            "establishment"
+         ]
+      },
+      {
+         "formatted_address" : "2493, Khajane Walon Ka Rasta, 4th Cross, Chandpole Bazar, Chandpole Bazar, Jaipur, Rajasthan 302001, India",
+         "geometry" : {
+            "location" : {
+               "lat" : 26.9225,
+               "lng" : 75.813033
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/museum-71.png",
+         "id" : "361bcf3c92b6c22d7625b88377aa96fcbf3f3921",
+         "name" : "Jaipur Moorti Museum",
+         "opening_hours" : {
+            "open_now" : true,
+            "weekday_text" : []
+         },
+         "place_id" : "ChIJKXwKvq22bTkR0Ixgg6yDKn8",
+         "reference" : "CnRnAAAAj9cDwHcRnqWWAXJWPgX9p_NlOZt_kM--pX_WdIe5aQz_5gac8BMyGQV1Qx1P-33YlFWXrT-xjioFS6Q3iWpypFv5qtwvsT_DwMzjXhrLEOE3xAPXTqG79kkh4W-l1pJwhj1ysT7oK-hFf2tAxGlOCRIQ1NkZfPgy8Twfp4Et6RM6wxoUrGHc5-QD9gyfpXHYj3syGj8quCs",
+         "types" : [ "museum", "point_of_interest", "establishment" ]
+      },
+      {
+         "formatted_address" : "Dusara Chauraha, Khejro Ka Rasta, Chandpole Bazar, Jaipur, Rajasthan 302001, India",
+         "geometry" : {
+            "location" : {
+               "lat" : 26.922551,
+               "lng" : 75.81409600000001
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/museum-71.png",
+         "id" : "2f0e1030c5178f95e383429b9d636dcb18aae641",
+         "name" : "Shri Ramchandra Moorti Museum",
+         "opening_hours" : {
+            "open_now" : true,
+            "weekday_text" : []
+         },
+         "place_id" : "ChIJlQ2_bFOxbTkR8KJVX3kiMbM",
+         "reference" : "CoQBcQAAALXMfAVfBokiYWrNwjExIaZiDPdOuim5gYJlgt9NZo5fiojdYRCMSR8JFWR2L1yV9X4RuiUiArUdaf31b-clwFLa51QPA1Ef-wQEb4WQMbsNBHmE8vm3yZ9QwcDS0SPPP4vh0oap3Ia_q4PNNdmPkqlTk9Ge0g8jKWEpVIKFgfe3EhA1QvWgxY7xIP0zbP9FqqbSGhRSlTr82WqgAKMhC48iQ4ritBB49g",
+         "types" : [ "museum", "point_of_interest", "establishment" ]
+      },
+      {
+         "formatted_address" : "Shyam nagar, Saket Nagar, Shyam Nagar, Jaipur, Rajasthan 302019, India",
+         "geometry" : {
+            "location" : {
+               "lat" : 26.899044,
+               "lng" : 75.767718
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+         "id" : "6c3db30c53e0bd70a47aa392f92163ff6d4f465f",
+         "name" : "G.S. Museum",
+         "opening_hours" : {
+            "open_now" : true,
+            "weekday_text" : []
+         },
+         "photos" : [
+            {
+               "height" : 497,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/100395243421616954640\"\u003eG.S. Museum\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRdAAAAdTAXP4t0q7BD_KgVgqqkfL4K9Wkmk-uAisTJ6wmzjBkuRsDlL2jICeE19QQD2eD37ceSNqVWMQZa-4mThGuL-nRVhfIzZouPqk61AJdo3wUO5Nw6cyiQOSHyyeu0gH5HEhA3RtISbMZ1wpnHYbi1XHy2GhQ8Nxvube54_VrjYHtkwMMfyUk4Cg",
+               "width" : 497
+            }
+         ],
+         "place_id" : "ChIJaRr576m1bTkRwci5V59jXJY",
+         "reference" : "CmRfAAAAVYwWY8zCXt9f-zZ7lSV_h0zKm1rlUjL48QSMdhscgcXT98XzeCZrsH9ZlpcjVbalFNzxDiOyJw-RB5YKc6qNMYMBqw4ysVZ03YNjHxVFYqG2pq1N2wXWxVF-i55VisyOEhA0mCZIayZ5AFnltODVQ9WhGhRgOGhD25BvC0XKYznAqjy5lolHTw",
+         "types" : [ "store", "point_of_interest", "establishment" ]
+      },
+      {
+         "formatted_address" : "3rd Crossing, Khejron Ka Rasta, Chandpole Bazar, Chandpole Bazar, Jaipur, Rajasthan 302001, India",
+         "geometry" : {
+            "location" : {
+               "lat" : 26.91247,
+               "lng" : 75.787274
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/museum-71.png",
+         "id" : "f5d2dc3171961c36ba1f2455838cebe8b78ce086",
+         "name" : "Star Murti Museum",
+         "place_id" : "ChIJKXwKvq22bTkRpY7ccUAcJEE",
+         "reference" : "CnRkAAAAI4PDMYXlRKSY6SMdeMXvTHtsOYbjwfQfnTbpP0Ulj35GUZFLxM8g-4VvpFyRBPpGJakRQGsv6XmVRjXMcRZ4E5ZoYSk5jEZtbAIJ8e8qKXGKJfF_efcdbob-tzhM5wYpvj3sHVa3qZOOcCcI5JpaqhIQIoOfTacKKZTjzV5wMQbE0xoU9XteKlMmFobmNM6hFuVW4lUQfeA",
+         "types" : [ "museum", "point_of_interest", "establishment" ]
+      },
+      {
+         "formatted_address" : "1398-B, Chandpole Bazar, Khejron Ka Rasta, Chandpol, Jaipur, Rajasthan 302001, India",
+         "geometry" : {
+            "location" : {
+               "lat" : 26.922081,
+               "lng" : 75.81403
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+         "id" : "a9a40076b52138f5539e489c485ccae77e993e7d",
+         "name" : "Pandey Moorti Museum",
+         "opening_hours" : {
+            "open_now" : true,
+            "weekday_text" : []
+         },
+         "photos" : [
+            {
+               "height" : 540,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/115375495724270758647\"\u003eRaghav Pandey\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRdAAAAPj-DXVT7TE8-S4bzSFeyuwe-wUc2nUtxrTL1W2VvhuAbaDMIcOpAVE9aDqpuuFLZrD16CbuNgacZJz9TeHPmc6qW1uYOb0LRHIIyKMOW35ZT_oeXDXctdwQdxivgntQPEhB2GZ2G70w_dANwYpIyUOeFGhSCtD-Bzq3mHSUxo7gPoiii97pCXA",
+               "width" : 960
+            }
+         ],
+         "place_id" : "ChIJ-cgoQFOxbTkRFPqii6WJolM",
+         "reference" : "CnRnAAAAvc9XH96D8GNcc9mjkaW9MsQE7xrtnCqHti2_6GQWzTJtcB_E0nhRf-6h8sWajjXniDGA7z3Ek8-ppT8RJAbAQhEnbSlP1LzL5aPQfJPllgWUivE6HyeNAEGpALAOtMAwLTuq6vOs_x4Z83aBuebjYRIQ8p-Vw2WS9pRpRfQxgqkdPRoUKvkqPYSsTp_3NuFKbe1L-WEnUX8",
+         "types" : [ "store", "point_of_interest", "establishment" ]
+      },
+      {
+         "formatted_address" : "Anokhi Haveli, Near Badrinath Temple, Kheri Gate, Amber, Jaipur, Rajasthan 302028, India",
+         "geometry" : {
+            "location" : {
+               "lat" : 26.99271,
+               "lng" : 75.850776
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/museum-71.png",
+         "id" : "f8dd9282e0a29d72cbdcece66800957dce8c0476",
+         "name" : "Anokhi Museum",
+         "opening_hours" : {
+            "open_now" : true,
+            "weekday_text" : []
+         },
+         "photos" : [
+            {
+               "height" : 427,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/111615711468280915846\"\u003eNilesh Korgaokar\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRdAAAAIwZmBRYhqTEcYblHJEd_QNeiGcs6XBHFjSyVJshFYW-BM9wVH_sDOVP5dxxndOQQY34Bkz5MDnmKTkQ28xcgtEcGL_ZlS6RAKK6NN4qak9KcWR_aKKsdstTuE98Dj2_gEhBPM38wpsoNNNkur0-PD-HMGhSRVDhloOl3v9yzObfzuc743pRQHw",
+               "width" : 640
+            }
+         ],
+         "place_id" : "ChIJ2fs8d7WxbTkRnv1e7pWoFuI",
+         "rating" : 4.1,
+         "reference" : "CnRhAAAAe3Ztsap9HNyu__TiWcymYuWDN3NafWmUzFn6bTt07F9virDQegSBk4Q-QlO2eh5mIbhVhpxGBNeEyZZU2xXhit2JWe7LV529RGCBxVfmPT_KnMq-hzYhSxXensqCqomZLBmEVKvRVJwiYdamXIml6hIQ3YVpbl_cMsYmy39j3Y9gWRoUAS4lRgKw9wbfUMxDN2rrO4pwlQc",
+         "types" : [ "museum", "point_of_interest", "establishment" ]
+      },
+      {
+         "formatted_address" : "Opp. Jalmahal, Amer Rd, Gujarghati, Parasrampuri, Jaipur, Rajasthan 302002, India",
+         "geometry" : {
+            "location" : {
+               "lat" : 26.955916,
+               "lng" : 75.841917
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/museum-71.png",
+         "id" : "e9e52397035ae380d221dd612fdc1e4cc0f359b7",
+         "name" : "Sanjay Sharma Museum & Research Institute",
+         "place_id" : "ChIJmbjSghqxbTkRyCt0W01spD8",
+         "reference" : "CoQBfAAAAC-CqJDoUW3OqKQlV16EAHj2hHBGyiuZMo4NivezIcd2Wi5FoxL9O4WReuclWDxqGYgt6_xwZI5xjLEYoT_YLcSLsDk-rb3wYZV_6uA2_4wrT073PLatBZLMrFm4c6_n3fkn3Hi23a0o-SjsZ_WXSFy8IJKuyiPCg5RDmFYqBri3EhCYEKu86bJzgaNQbFjKeaoAGhTOvF2A8e8ZgOhifasmxhlyHDGqNg",
+         "types" : [ "museum", "point_of_interest", "establishment" ]
+      },
+      {
+         "formatted_address" : "1670, Thetheron Ka Rasta, Chaura Rasta, Jaipur, Rajasthan 302003, India",
+         "geometry" : {
+            "location" : {
+               "lat" : 26.91247,
+               "lng" : 75.787274
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/museum-71.png",
+         "id" : "ee5aa7271c52bc9df225dccd32ac8cb8bc331aec",
+         "name" : "Sanjay Sharma Museam & Research Institute",
+         "permanently_closed" : true,
+         "place_id" : "ChIJKXwKvq22bTkRc75ndchVbZU",
+         "reference" : "CoQBfQAAAEOmqtBNT7ri4bYNrT1uPBYcTriUmRrbdaY-tf3Cc28tZRLEcMv8QghkyyMeqyvEvQ3MRV7eLhKBrJGCrebp15MmyjLJzOt3iLkHLHX-BBEfL4HZE0LAucP6o5PPGG0vFfKtTG55YxpFK7YloMGiyx9vvCIhqH0N6iqm6ipmEdK7EhC8PqLd87oFlptX1Not38ROGhTaOtZQyRSVzPhly1QvslQ5MoqUUw",
+         "types" : [ "museum", "point_of_interest", "establishment" ]
+      }
+   ],
+   "status" : "OK"
+}

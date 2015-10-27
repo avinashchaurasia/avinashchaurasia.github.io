@@ -1,0 +1,242 @@
+{
+   "html_attributions" : [],
+   "results" : [
+      {
+         "formatted_address" : "Mahavir Nagar, Mahaveer Nagar, Durgapura, Jaipur, Rajasthan 302020, India",
+         "geometry" : {
+            "location" : {
+               "lat" : 26.855037,
+               "lng" : 75.786609
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+         "id" : "dc9c2994a05decd9218ec0242c7bb0d475ec4ad2",
+         "name" : "Durgapura Railway Station",
+         "place_id" : "ChIJdadA3sa1bTkRl6OjnFPxzso",
+         "rating" : 3.8,
+         "reference" : "CnRtAAAAk4sEvg6rCA6gAG0j8OoL9ECySSWTosY-s9Rw1-1IJF8Eb5ODujxGHIfdBV_kNHLruyNxhywF2wr3PijnsWopqaL6P5ak7178sJmdfCAn4z83R94SK5pr0GMKs_ysd5x_tP8_EX5UMxHQiUq1RfvsARIQ25HiCAGIIyV1CWHoRUagRhoUkYWKZzkTBtoS_UxflV2LX3A0FD4",
+         "types" : [
+            "train_station",
+            "transit_station",
+            "point_of_interest",
+            "establishment"
+         ]
+      },
+      {
+         "formatted_address" : "Dada Gurudev Nagar, Sanganer, Jaipur, Rajasthan 302029, India",
+         "geometry" : {
+            "location" : {
+               "lat" : 26.814612,
+               "lng" : 75.773005
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+         "id" : "f761db4b9c65a9ab3777184c82bd1bc6f54fedc5",
+         "name" : "Sanganer Railway Station",
+         "place_id" : "ChIJtUWTbnDKbTkRpP9l1PsQllg",
+         "rating" : 4,
+         "reference" : "CnRrAAAA5fJ76h1uFWDtJcUPssAJwBySSVAy-ohZWj8L-dHFcv1j9l7QViDi2cG6FwtAiL6kdRsTa4j9kkTDpxN67w53k2bwZ5dLrvw27sUjf0rnDi_hNnThYagU8C7iUh5ExlMzY9RIgrFSAcYlczFI7_O1ZxIQ-Xd_z6vBMgq02-N90b3SnxoUkWta5LoJvERPyKfX54OKGzoomVU",
+         "types" : [
+            "train_station",
+            "transit_station",
+            "point_of_interest",
+            "establishment"
+         ]
+      },
+      {
+         "formatted_address" : "Railway station shortcut, Modal Town, Jagatpura, Jaipur, Rajasthan 302017, India",
+         "geometry" : {
+            "location" : {
+               "lat" : 26.836949,
+               "lng" : 75.83184300000001
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+         "id" : "cbd3d9d9dd1590ad8e9bc24ea0fb938cc4ec78bb",
+         "name" : "Getor Jagatpura",
+         "photos" : [
+            {
+               "height" : 480,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/114785588098190627801\"\u003esurendra meena\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRdAAAAVA25QH0zygAI67KUFepiaUS2BhF9AF42xaU8HDRxrlST_ea4LlMthdSbJfITQV7X5utBCX0_hOkpv7TmfO2XZ_OWHo2n8hlGLXSnFbS_bfOu3YlNfSZTOcfh51U2CEZFEhDCgLRcpzJOwIPKnGSMffAlGhRYIuKt9oIPrawQarDZ8OMRulP2bg",
+               "width" : 640
+            }
+         ],
+         "place_id" : "ChIJxahFPCK2bTkRVA2N75Xc3Ug",
+         "reference" : "CnRiAAAAcz1hNN9xFiqqIPDl0iQCY0Nt4bz8nZ0i6csNJz9s8cdvaoCrTMhpky8lNrQtoYqVjXWft3W_88hOsJeVjdbr5XdBnAtX5FCxEjRUwCCYF0APi_yqirp-G_J1YggLbLwB_5VIoS9MOreDeSPm0WbXhhIQsGlj3QKTYbNIWfO8tq48jhoUwbb98cta4gT2ouCqgFiE84FeZaA",
+         "types" : [
+            "train_station",
+            "transit_station",
+            "point_of_interest",
+            "establishment"
+         ]
+      },
+      {
+         "formatted_address" : "Jawahar Nagar, Bajaj Nagar, Jaipur, Rajasthan 302015, India",
+         "geometry" : {
+            "location" : {
+               "lat" : 26.873471,
+               "lng" : 75.799008
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+         "id" : "4bd1e63436eee0bf12be92cf4cc15564e9be1621",
+         "name" : "Gandhi Nagar Railway Station",
+         "place_id" : "ChIJE_f4yyy0bTkRqcBSE9E_Z0g",
+         "rating" : 4.8,
+         "reference" : "CnRvAAAAb01o2XwIgTVjg2F0ms2e6lTfz0arEnqjR0EaQvtQQcjOgyBajR3HoZypk46u17Y6mHVizkuoxh2ZRkfIiD-S7m8WZIYsPJgE1BHoQAZelkbHno28N-hsArBsVL5r7XIohIhN2_ZBD2TcJDofoghaFhIQGtjPVLbhEd2dpFbezGxcZxoUXlF8n3gs4rHH4hOrOPCX2YU-x_Y",
+         "types" : [
+            "train_station",
+            "transit_station",
+            "point_of_interest",
+            "establishment"
+         ]
+      },
+      {
+         "formatted_address" : "20, Station Rd, Barodia Scheme, Gopalbari, Jaipur, Rajasthan 302008, India",
+         "geometry" : {
+            "location" : {
+               "lat" : 26.920239,
+               "lng" : 75.786804
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+         "id" : "27c844c3b62fc8b438b2398b7ee3001e2370ad95",
+         "name" : "Jaipur Junction",
+         "photos" : [
+            {
+               "height" : 600,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/106625906451643756007\"\u003eJatin Saini\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRdAAAAxqoD2XW0Giu0nfDV-c5oatBAY4szgIUr5RYRhDLNYGO9R8e-pgPbeoS7dVq4TmqAwIO-WcTNnfN0hdunXHDNjoU4yhkgIpbJbyRXJvCNb_mjfk0-TvOCBCgaYF3QFcgqEhDBcra1RhEClgf8yCQympD8GhRmqc-tyAFCmsLRlubHPftKtD7j_g",
+               "width" : 800
+            }
+         ],
+         "place_id" : "ChIJAVdVrvWzbTkRocGuhc3m88o",
+         "rating" : 4.1,
+         "reference" : "CnRjAAAAP-Wi4FVBSNDItCiSpw1IbcJBDkXYM9vuNmjGFLblpJP7RfxVi2rAnhkdpeXcXpVe25Usdw9w5qAHZHyQ5ahSshCP4oA1BHAIIoTaiHV6SyevWKOqwJzDVgKg99_HztyRPUnxE1A8bbK4y1QO0k5qBRIQLbQ2h0NKJUvBDLJK-Dc6XBoU_Oe4Y9d1UgBRTL6MHwjMI972JkA",
+         "types" : [
+            "train_station",
+            "transit_station",
+            "point_of_interest",
+            "establishment"
+         ]
+      },
+      {
+         "formatted_address" : "Keshar Vihar, Jaipur, Rajasthan 303012, India",
+         "geometry" : {
+            "location" : {
+               "lat" : 26.836105,
+               "lng" : 75.890822
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+         "id" : "53ac326d013a6608d01651bc7f1f53719d911427",
+         "name" : "Khatipura Railway Station",
+         "photos" : [
+            {
+               "height" : 640,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/104720998722673801082\"\u003eKewal Khakhoria\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRdAAAAljiFkMfYD8yqX6I4ZX-R67zMWCXTQL7ckCkInppHZtEcHz8vr_qc5skPHmWeThQw9u_TCVuqPzbUKhfxYKveHyywkmeD3tvxmREQM9tqdb6Zbtx2JLy6tHfcjXisB7ozEhA3Vph0CNhQ2nndc6uH7UqmGhRktU134efeY-Z8KZQH5dJ77Ho4vw",
+               "width" : 480
+            }
+         ],
+         "place_id" : "ChIJXRePgQLIbTkRDFNm7_9vVTU",
+         "reference" : "CnRsAAAA-IPvjc290MdStCYG8nZMzajHyZB21AEf8hTXD2wtmlEl01gig9EiFyif2JIPXvmlKJlkBfm8ZDGn_6hxxfUU9oSMevAk32rZS-_BO-gi7c6T37jhHr0ba1TBPHwdBbAqhyJ5f6oLXX9-gSYSS4cLOhIQ6kbeAKT4UFqMtucbsMYnLBoUOXOVgeM8yfBIWXneHaTQO2Xh8Hc",
+         "types" : [
+            "train_station",
+            "transit_station",
+            "point_of_interest",
+            "establishment"
+         ]
+      },
+      {
+         "formatted_address" : "Ramsinghpura, Rajasthan 303012, India",
+         "geometry" : {
+            "location" : {
+               "lat" : 26.841972,
+               "lng" : 75.955668
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+         "id" : "a6a189072d4d96b3fa35c20d094e4156a6de6cff",
+         "name" : "Kanota Railway Station",
+         "place_id" : "ChIJN50TcH3HbTkRZr1DJD5a5rw",
+         "reference" : "CnRqAAAAfBytQR7HLSilfv0OwOVP0Ly9S5Uscyj0KDrZVC-B_ITeTnDw1UWu_XcP5CNl8o-pmAvPNCUZiGCOHDW7WVmUKFC_0pDqsTV5BdsdfP9hWKISLWzex2MDTzs6tX5oBcjC2x7VsHTny76rpRGZjCg0wBIQsn12YRg1460nlrhOoTwmDxoU8JnETS_2zGdD2uzasGk9PLphHKs",
+         "types" : [
+            "train_station",
+            "transit_station",
+            "point_of_interest",
+            "establishment"
+         ]
+      },
+      {
+         "formatted_address" : "Hasanpura Rd, Gopalbari, Jaipur, Rajasthan 302001, India",
+         "geometry" : {
+            "location" : {
+               "lat" : 26.918184,
+               "lng" : 75.790035
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+         "id" : "92072ad85bfa126ec8645f95a1f5fcf3930e9b39",
+         "name" : "Metro Railway Station",
+         "place_id" : "ChIJ1V-r4gm0bTkRcr-xx952fok",
+         "rating" : 4.8,
+         "reference" : "CnRpAAAAf3LuYgamUHhpB9FaiZGQqBMa2590yw8_LH5FB382O1d3pt9_hx-FFVKOOWDjMb2BDKZW6nM0UyHZFumUQBzv7WIQ4wXnhumN06HddeA5PPhwUH3nAtlr_AqmdXjHlRbuOgAMyi4JZ9cFxvPud_XpFxIQE6-ZX2agV83fyOWRKWpONRoU8ACDyUNOpEGLZ5FcuNfU0J3lhd0",
+         "types" : [
+            "subway_station",
+            "transit_station",
+            "point_of_interest",
+            "establishment"
+         ]
+      },
+      {
+         "formatted_address" : "Station Rd, Gopalbari, Jaipur, Rajasthan 302016, India",
+         "geometry" : {
+            "location" : {
+               "lat" : 26.921688,
+               "lng" : 75.79016799999999
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/lodging-71.png",
+         "id" : "16f6709a7db5a93a8edb73000d4c08609d4e07a4",
+         "name" : "Shree Panchayati Dharam Shala",
+         "photos" : [
+            {
+               "height" : 1920,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/117186913818267145636\"\u003ePankaj Agrawal\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRdAAAAcwd3UcoxzAO7d6A1igmIVfMY7UXzx8WWxTRwqDudmC0sfeWLTzewFtGDrVgjHNpI_Fsf3zyka06uoJCGlT29PUuQJ_3BFdkzaE1sbQYYhTeBm2VPNxr1XM_zwTyd9eJkEhA5YTdxTn3ki_npV5AIGdbuGhRNhf5DS_nDRuDOWsPEM4s9J_2xCQ",
+               "width" : 2560
+            }
+         ],
+         "place_id" : "ChIJ7zJlhfazbTkRw8uVH3hfeAk",
+         "reference" : "CnRwAAAAM8CmW84BqkomsUyNtzgThW4wQbWZ-cFD5F6VrTMEXaDX4l5yHFsJsdwv9S3tbMdGB95oMbtMqXeulMvHXOC6e4uBOSPCaKVmEMqsgYruTc0GxDT2U3PVFTJUedIB3ff127PqjvALKZ4TEq-8dip-ghIQC4RiomIwOQGkdwsFYN-XfRoUV_fxYXs4Art5sTu5ShkjACNnVxI",
+         "types" : [ "lodging", "point_of_interest", "establishment" ]
+      },
+      {
+         "formatted_address" : "MI ROAD, Ganpati Plaza, Nangal Jaisabohra, Jaipur, Rajasthan 302012, India",
+         "geometry" : {
+            "location" : {
+               "lat" : 26.970482,
+               "lng" : 75.72273300000001
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/lodging-71.png",
+         "id" : "707fc948bd54dfdc057015bd6b211a0582b20dc2",
+         "name" : "Oyo Premium Mi Road",
+         "place_id" : "ChIJ1UZ-4gm0bTkRsI2PbCkZsjE",
+         "rating" : 4,
+         "reference" : "CnRmAAAAjAtz0X7_P9v-q-0-i-3qFws7_Wj3IeTQxKfXKmvnTfVXQ8-VEextYsT0FRSbItq8ifyyKT5ANSA2XuOzkWP_snt5Qmq7TgfEXnqYy0_ELIXmUCMRc1ysIRs3_6wA49VeZKkZxv5zNHAutm8Ej26KPxIQGidYuWKW97VW4hjCvaQQ1RoUo9tksQRdJ2DMJB57AD0uWLHo6EI",
+         "types" : [ "lodging", "point_of_interest", "establishment" ]
+      }
+   ],
+   "status" : "OK"
+}

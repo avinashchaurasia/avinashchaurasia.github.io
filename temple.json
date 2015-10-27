@@ -1,0 +1,424 @@
+{
+   "html_attributions" : [],
+   "next_page_token" : "CvQB6QAAAE1kUzWYJkXHs9Lxz0N-9_7j4RRHFJ1owge_mbQfTkszZPyF18OTet806g06VJWjoIxLKjEpDBGtgM4UDMFS6Ih0uyup4OhCv6iWK7WPc-4wpJUv0gvXC5oQlIyq3Hx-EbVcIWFTk8G9pI8w88zDTVasK5WnNqT3MQwUPAgWtCfIe-f8JDqMEO-Pa-JvICiKK5Dnz9J1AYGa2KLJXsdagR3ej3kj-AWMjyB3Iy20gtsOqYFoK4IVWS3BrUwK1oG2k5pZ0pljt2XY12P-5I0e9Ws9PdxjU0_Cbt3VvSq9C4kwJ4fkjdSDEW3VU6-AOc6LQxIQSzHKP2cMFxRfSRXo0DztgRoUvqHY-Zi9ilri8Gwv716FvQSSIn0",
+   "results" : [
+      {
+         "formatted_address" : "Sector 3, Malviya Nagar, Jaipur, Rajasthan 302017, India",
+         "geometry" : {
+            "location" : {
+               "lat" : 26.85045,
+               "lng" : 75.817482
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+         "id" : "e2335a7e405e7b5bce3dcb1b0adc37a664fdeb33",
+         "name" : "Shree Digambar Shantinath Jain Mandir",
+         "place_id" : "ChIJqZRRQg22bTkRKXKAPZRmwhI",
+         "reference" : "CoQBeAAAABMQ4bS29FUp31aAVQcWT_IXYBTgDnQgaADpgSA5ET8qV5L7v5zQsBNPO_cFRbBHvhu7uAJAAgTcvrmzaPPN1fkedUZQHQ4Vmv6-9cBcMN-ztFp5zGY1M-mz84x3Rj2pbS-NEz3N2RRzDrEROf6Sg1jb0hUrExzwsa_EOSxWrNl0EhCYxA8uNvvg56hYjFWSzCK6GhRMbtjUf-28iAPd26Ok25rC3xtt-Q",
+         "types" : [ "place_of_worship", "point_of_interest", "establishment" ]
+      },
+      {
+         "formatted_address" : "Near St. Anselms School, Calgeri Marg, Jhalana, Malviya Nagar, Jaipur, Rajasthan 302017, India",
+         "geometry" : {
+            "location" : {
+               "lat" : 26.858693,
+               "lng" : 75.812836
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+         "id" : "742389583114db3719b5816c230c37ee9b03059a",
+         "name" : "Nakoda Parshvnath Mandir",
+         "place_id" : "ChIJ-YRjTHG2bTkR0v0ov1hZES4",
+         "reference" : "CnRrAAAAgC2TDCcC8QbyD63nyHzrdSnLmLHh6ZipqMcwuigKkCJE-jXwo5C521dRY8YNdfwv6PIk7bEWZH8UVZhhnDCsC251UWsNRxd5uK7vhM2e5UD_IrOZtFz3URYHJ0DpEvUWwV83rRIMN_U1ABTuuqthyRIQQ3cfnl6HN4PbT6j8-5817RoU_9dtgtkTV_Z6hWOQCm84BgQ0Mhg",
+         "types" : [ "place_of_worship", "point_of_interest", "establishment" ]
+      },
+      {
+         "formatted_address" : "Jhalana, Malviya Nagar, Jaipur, Rajasthan 302017, India",
+         "geometry" : {
+            "location" : {
+               "lat" : 26.857786,
+               "lng" : 75.81728
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/worship_hindu-71.png",
+         "id" : "025aedf2208ef29d91f49732246333e39b6a5188",
+         "name" : "Chamunda Mata Mandir",
+         "place_id" : "ChIJEcBT9HG2bTkRF4cNsGsbLRo",
+         "reference" : "CnRnAAAAPgCnz-H6sxsLMFpyjFilVKFykuGLQt6qxgeO07jh-i0RYs-hR9q3Wy-4MYmdDnJgqUsTdPt9-7W7hAIrh29Kje3JONZc6Q55aobsgsWCIN7AH7cV0mfTCs8RZuOTjkMMSUbvEoiV0-sddjj2xYKTVxIQrZMsxElaGheHtckBdqKySxoURsRh53srScaBTAh9wPLqX50KWmE",
+         "types" : [
+            "hindu_temple",
+            "place_of_worship",
+            "point_of_interest",
+            "establishment"
+         ]
+      },
+      {
+         "formatted_address" : "Sector 3, Malviya Nagar, Jaipur, Rajasthan 302017, India",
+         "geometry" : {
+            "location" : {
+               "lat" : 26.846739,
+               "lng" : 75.816749
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/worship_hindu-71.png",
+         "id" : "ff3749600c41a209b993436ac1c396a71cea4d77",
+         "name" : "Shani Mandir",
+         "opening_hours" : {
+            "open_now" : true,
+            "weekday_text" : []
+         },
+         "place_id" : "ChIJtahVww22bTkR7sNX54JWKug",
+         "reference" : "CmRgAAAAk1ToG65-KaJDD9MPiP6MnTlgHVSQJickXoKpbH5DBZTl_C9J86nPHez2-fgyUnxxXaPcAzHIH9fcTAJF7byPLSbiul2D-3D0LR0vMN6o_3_gw3Go6iqBhk4ttHY-F2SOEhCDH01RDJcGukxXMRAeoyYKGhQ1WOGEo61ChVKfykV0-NkNd2kNbw",
+         "types" : [
+            "hindu_temple",
+            "place_of_worship",
+            "point_of_interest",
+            "establishment"
+         ]
+      },
+      {
+         "formatted_address" : "Block-B, Malviya Nagar, Jaipur, Rajasthan 302017, India",
+         "geometry" : {
+            "location" : {
+               "lat" : 26.85179,
+               "lng" : 75.818523
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/worship_hindu-71.png",
+         "id" : "d5f6f9fb47ef1c667fc85a46447852681c556f09",
+         "name" : "Hanuman ji Temple",
+         "place_id" : "ChIJwWd-VQ22bTkREUi0ufDxUHQ",
+         "reference" : "CnRkAAAAu-zUlk39Uu99Tyy7BlhQEOVanjfXIN3NWYN_HFGkScDYIqFCu0MMjsJkPSNk1w0m9VJKDP0gzeiZVqQnZhc-btm3l0wY-MAOp0jCIYw23EkNgbzn7vYA8OWjQvzoKIuJMx-yGDcD1pnoEeuVU06hDxIQTdHowpOqBgeSeq4meXk1cBoUtkVCQEbE7BS7Cc8s4IE1zUbGth8",
+         "types" : [
+            "hindu_temple",
+            "place_of_worship",
+            "point_of_interest",
+            "establishment"
+         ]
+      },
+      {
+         "formatted_address" : "Nagar Nigam Bazar, Malviya Nagar, Jaipur, Rajasthan 302017, India",
+         "geometry" : {
+            "location" : {
+               "lat" : 26.851017,
+               "lng" : 75.82299500000001
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/worship_hindu-71.png",
+         "id" : "27f4bc82744dd6ce19d42cbd0d907c5426c334ff",
+         "name" : "Shree Chamatkareshwer & Shree Ram Mandir",
+         "opening_hours" : {
+            "open_now" : true,
+            "weekday_text" : []
+         },
+         "place_id" : "ChIJx8I8QBO2bTkRMDln2ADByyo",
+         "reference" : "CoQBewAAANrS8miqB4UHA1OE2s45CVQ8jcT-ccJxYMf13W8ek32Ww5RI6DS0u2n6EVETLmvCxP-1rlnm8aq1rZ1JlEZtxZVjvidFCCzyH03YtAyNeC070ws5DoP6JsIMM6GlYiNe1SmC7WGSAnJXvxo4jlliqi6jVlEN5hQ1d-EfwXEbqsMqEhAYIKnT58SmyJ0sYVNtu0eUGhTZVVtIS41GCJZ0okoepc8d5YbmIQ",
+         "types" : [
+            "hindu_temple",
+            "place_of_worship",
+            "point_of_interest",
+            "establishment"
+         ]
+      },
+      {
+         "formatted_address" : "Balaji Mod, Jagatpura Bypass, Jagatpura Rd, Jagatpura, Malviya Nagar, Jaipur, Rajasthan 302017, India",
+         "geometry" : {
+            "location" : {
+               "lat" : 26.850315,
+               "lng" : 75.82510000000001
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/worship_hindu-71.png",
+         "id" : "53a5f31a54e3f110cbc07065cba3dbd3b07c7cfc",
+         "name" : "Shri Shiv Ratneshwar Hanuman Mandir",
+         "opening_hours" : {
+            "open_now" : true,
+            "weekday_text" : []
+         },
+         "place_id" : "ChIJ_bKFjxS2bTkRKQcs9NP1j_Y",
+         "reference" : "CoQBdwAAACGjdmumEpt9DiQi9o3yk1CVb6XwvGJWIWRtjU0XRyn0Jhmnq3YYGBGL_Df2xtllN6eTxKni1eUIwo7ejKP-_ZfkMI7UzCM9IyHw9dOqdOJvvFw0k8xHtZwbM2PlY0BTtfil15I_REZXdqGNw0hKF19DBqPUs6CVi5Q1dbcKUxpjEhBQwgM2voRSQ_lfEeINO016GhSXCqs5hW8aL9ooH5r25ik8fOsqKA",
+         "types" : [
+            "hindu_temple",
+            "place_of_worship",
+            "point_of_interest",
+            "establishment"
+         ]
+      },
+      {
+         "formatted_address" : "Sector 1, Malviya Nagar, Jaipur, Rajasthan 302017, India",
+         "geometry" : {
+            "location" : {
+               "lat" : 26.85042,
+               "lng" : 75.82138500000001
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/worship_hindu-71.png",
+         "id" : "bddca6ca307bbfa680a20f9c148e05c11f6112b1",
+         "name" : "Shirdi Sinhasan Wale Sai Baba Mandir",
+         "opening_hours" : {
+            "open_now" : true,
+            "weekday_text" : []
+         },
+         "place_id" : "ChIJ22Eb4hK2bTkR8h4qT2mnBMM",
+         "reference" : "CoQBeAAAAOj7cKOL4B7vT4x02scN3CrCIc3zMYMaPoQTtuS8_eFgrWUKhnf_TsKGhRJi6kPC1uXTsajyavelCaz7idXYWvO5OuDlkJmERjoPxg19GIidObZtWA105fsl6jjn9dqnNKBhlSu5aT0epryg583DpeRQ4hb3x62PyvktVPHbfcG1EhBvZdlmyuCh_0P5dA9MJmjPGhRPF2pHy1qc7-zrGHNPx8dQaqmhWQ",
+         "types" : [
+            "hindu_temple",
+            "place_of_worship",
+            "point_of_interest",
+            "establishment"
+         ]
+      },
+      {
+         "formatted_address" : "A-715, Malviya Nagar, Jaipur, Rajasthan 302017, India",
+         "geometry" : {
+            "location" : {
+               "lat" : 26.856454,
+               "lng" : 75.814485
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+         "id" : "8d21ee3d8319890329674be4087f3c45ee97ee34",
+         "name" : "Jain Mandir",
+         "opening_hours" : {
+            "open_now" : true,
+            "weekday_text" : []
+         },
+         "place_id" : "ChIJmcJvw3O2bTkR5F5vhCqkUQ8",
+         "reference" : "CmReAAAA2HsRVA-shDQAR8NzZx3kpAm7gC-MT4aarF4-aVBoPNxIbWYYbCvZO_z55xOvgK5_qzffN-LDhSXO0hbPeiU7cgRkDRov2soM2-ZURPoNoAq2O8uxOTj_mKExg0hRBhQxEhCpcLY1lfpnUf52dj9uErf9GhS0d3O805PiZBnms0akkkpWOfGh1A",
+         "types" : [ "place_of_worship", "point_of_interest", "establishment" ]
+      },
+      {
+         "formatted_address" : "Block-B, Malviya Nagar, Jaipur, Rajasthan 302017, India",
+         "geometry" : {
+            "location" : {
+               "lat" : 26.851702,
+               "lng" : 75.818533
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/worship_hindu-71.png",
+         "id" : "ae28c4adb320f8417f1320f18a5890ad945efbe5",
+         "name" : "Shree Bheru Nath ji ka Mandir",
+         "place_id" : "ChIJjZqJVQ22bTkRTQ7jaU98o-E",
+         "reference" : "CoQBcQAAAJEzIsqQae18Q1FHeqryhIzdgWUyjpX6-kuPOx9m0Un0ro2_E_qxPfzoOITk9xvg_2U7R033j1CPmMf3ZWpR_k3BfyVW6LTLhGe9H91ElhM0V6sz4UNYKwsfDy9iVGj-YDi33hl5QYi6vpUUVbZ_pOvbfr9j4WNRC_x4Wq5--uBiEhDv5f0KmazyIJMlCAMgRfg7GhSNbDRHINT4u70yQmpMhGWP2c8YMg",
+         "types" : [
+            "hindu_temple",
+            "place_of_worship",
+            "point_of_interest",
+            "establishment"
+         ]
+      },
+      {
+         "formatted_address" : "Shop No.1, Nagar Nigam Bazar, Malviya Nagar, Jaipur, Rajasthan 302017, India",
+         "geometry" : {
+            "location" : {
+               "lat" : 26.85035,
+               "lng" : 75.82126100000001
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/worship_hindu-71.png",
+         "id" : "27f08870a0fb1ba73fc52813769b5d535a1ac573",
+         "name" : "Sai Baba Mandir",
+         "opening_hours" : {
+            "open_now" : true,
+            "weekday_text" : []
+         },
+         "place_id" : "ChIJxeIs4hK2bTkRWRABYF8XsG4",
+         "reference" : "CnRiAAAA6qciTTC3xwr6efj-grbVVbg3Gi0e4H1A5lGTCSzgTBPzm6USBaQK0qIO1sGeN0y8WJWRSml6lmvioTadJLtmeXJ-EWg8rrmCT4yZb2MgcVE-HKPwe5z7hUcw5cumC81btmCVk8w-Pin6p2A5mpr5KhIQrm4FU-3J61-yU0Fsa5Ff5hoUH-gBdb4pNFegY8RUhpt5BX2rpQY",
+         "types" : [
+            "hindu_temple",
+            "place_of_worship",
+            "point_of_interest",
+            "establishment"
+         ]
+      },
+      {
+         "formatted_address" : "Sector 1, Malviya Nagar, Jaipur, Rajasthan 302017, India",
+         "geometry" : {
+            "location" : {
+               "lat" : 26.851307,
+               "lng" : 75.818979
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/worship_hindu-71.png",
+         "id" : "846352767b922667afd91ac41e9f830d7d4d4788",
+         "name" : "Jaleshwar Mahadev Temple",
+         "place_id" : "ChIJnedgrxK2bTkRYeB6VKUjcKM",
+         "reference" : "CnRsAAAAFph9jyRsfL3MLcsUkM4Be7oslLE2DX88DqjyJR_Dm5Li9JQ9SSPMCNgIvDtfcyOvz_6s3Pe6t4eDeW7mfOltWkE2uZH_VB4tWKAJ5PhM7TqZjze2rN0NqolyQEY-H4kWPHNy5BSVz5w0eRthb812gxIQ9D1qgrArwuRlUdNt0QajrRoUTQY1LQOH6_y_wEffdKxed3WIPMA",
+         "types" : [
+            "hindu_temple",
+            "place_of_worship",
+            "point_of_interest",
+            "establishment"
+         ]
+      },
+      {
+         "formatted_address" : "Palika Bazar, Malviya Nagar, Jaipur, Rajasthan 302017, India",
+         "geometry" : {
+            "location" : {
+               "lat" : 26.847858,
+               "lng" : 75.80833
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/worship_hindu-71.png",
+         "id" : "a1a5a36fab316877e13f6a0295f38aedc037cf1e",
+         "name" : "Shree Shubheswar Mahadev Mandir",
+         "opening_hours" : {
+            "open_now" : true,
+            "weekday_text" : []
+         },
+         "place_id" : "ChIJc5h9YAq2bTkRdko8ZS5mr9U",
+         "reference" : "CoQBcwAAAHPdS-CSbrdLtInemoYt5q0z71-REoDBk4VpYNFJ_ZSCLuNmNWey5kZC3W8b3ofXs0mbJ5h9BJDr3ous-w40vSQV-iEInyplMmownH2ESP8WXN737sxte9JNhFTQRvvGEFVqJGx99nHhE-PIBU-vnFcyRUdMsCM43hEU8jJ_GFUoEhCignBX5_JA8QIHMoYEDOdwGhSlQYnyYVe77FVXYGJCc6NEi-EBLg",
+         "types" : [
+            "hindu_temple",
+            "place_of_worship",
+            "point_of_interest",
+            "establishment"
+         ]
+      },
+      {
+         "formatted_address" : "Calgeri Marg, Jhalana, Malviya Nagar, Jaipur, Rajasthan 302017, India",
+         "geometry" : {
+            "location" : {
+               "lat" : 26.856322,
+               "lng" : 75.81944799999999
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/worship_hindu-71.png",
+         "id" : "346a59f43dd89d7d0fb5277a23a23a3af8e200fd",
+         "name" : "Hanuman Mandir",
+         "place_id" : "ChIJTXOB7W22bTkR0mI-hRSxG_c",
+         "reference" : "CnRiAAAAEmEFAaC8SufgcPDSZgXHCibfrRIHXvo9sLj4TdmcOKpUNvmfwUS71h_NM8wgaOO-p2tBDdT3NjFqt2BNn9VyGH2GBy7wYHR50NoDsdt-jCI4pYMbos50YHuGS7S3p_1s5iGYroaVJBvvs_q0gDpx7RIQxKwEP-SQ7n6NmIGDI0mdiRoUm_1E1_nuXzVzGHhIs2lsJqRHOp0",
+         "types" : [
+            "hindu_temple",
+            "place_of_worship",
+            "point_of_interest",
+            "establishment"
+         ]
+      },
+      {
+         "formatted_address" : "D-Block, Malviya Nagar, Jaipur, Rajasthan 302017, India",
+         "geometry" : {
+            "location" : {
+               "lat" : 26.853932,
+               "lng" : 75.80849600000001
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/worship_hindu-71.png",
+         "id" : "9ec5015375a6f2818e2828520cd168c33c1c1f98",
+         "name" : "Krishna Temple",
+         "place_id" : "ChIJmbVEoHW2bTkRowMqzLtKCbM",
+         "reference" : "CnRiAAAAsa7INQl-43zz_Bf8QioEuHalI9EqEqx9ykiq1sFtsaYBuWlJZ3TnUjwWl8vycOdfspCkWShN2KfxJP5ncXIYhHRBVjsooogJfbUeC93pzKpKK1bXy0JiwrshAs43qQiFYg6QuzcXSKeNuFZxEFJ_mxIQXyFg20l_dKY8EPvFfZn0sxoUYMI9XKRq3aFswim5a1v-2WrI-S8",
+         "types" : [
+            "hindu_temple",
+            "place_of_worship",
+            "point_of_interest",
+            "establishment"
+         ]
+      },
+      {
+         "formatted_address" : "Sector 10, Malviya Nagar, Malviya Nagar, Jaipur, Rajasthan 302017, India",
+         "geometry" : {
+            "location" : {
+               "lat" : 26.846993,
+               "lng" : 75.813378
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/worship_hindu-71.png",
+         "id" : "9e84be739209179d8cccd9a6727fb0c532cb8706",
+         "name" : "Kali Mata Mandir",
+         "place_id" : "ChIJD2zXDAy2bTkROKWQtY6qmJA",
+         "reference" : "CnRkAAAASPAOtIcCsYDPCYNm9uSjv8GETislkOJYjZUsTIODDBiglL5dx4jngfXSKF683KcJGZ3C5KJN6wqYDNWbRCRejCftDx38Imkgy6Cmc3qhZeoZbxCQZT2YSQwmUQfY8EWwpguzeCQaExYk7QNIawaqGBIQwkbEEqqF5ZUSwzcsriEFxRoUpHD6cq9i7gWceqf90LPBxtxE-t4",
+         "types" : [
+            "hindu_temple",
+            "place_of_worship",
+            "point_of_interest",
+            "establishment"
+         ]
+      },
+      {
+         "formatted_address" : "Malviya Nagar, Jaipur, Rajasthan 302017, India",
+         "geometry" : {
+            "location" : {
+               "lat" : 26.851333,
+               "lng" : 75.818946
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/worship_hindu-71.png",
+         "id" : "0b04fef0e0dde0e07f1d3ad75d659cf2216d9779",
+         "name" : "Hanuman Temple",
+         "place_id" : "ChIJB2ZhrxK2bTkRzGTpt4Xubzo",
+         "reference" : "CnRhAAAAuZR6nCZQt34OKwkCO5xhfZ63_gXlr6GDy-M_TjyS473fRI7ak5b1u8hJZOVeybH8mftwZaSQvc-yKw6WnlPMTsCn5VzUvU8t4ru4r0oCXHuAzh7lFmWM6YxhYaaDkJGOfKHFb_0UHRj2Tl70rwykFRIQtChKspdH6dH-BhXp1gMqcBoU2_3uzZCAicUgoWY47dgQlIf8yEU",
+         "types" : [
+            "hindu_temple",
+            "place_of_worship",
+            "point_of_interest",
+            "establishment"
+         ]
+      },
+      {
+         "formatted_address" : "Malviya Nagar, Jaipur, Rajasthan 302017, India",
+         "geometry" : {
+            "location" : {
+               "lat" : 26.845255,
+               "lng" : 75.80812400000001
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/worship_hindu-71.png",
+         "id" : "aee73c713fbca435c1f726562d7b0020bdc3bd8c",
+         "name" : "Mandir",
+         "place_id" : "ChIJlwNFHgq2bTkRaWGQPh4CGSI",
+         "reference" : "CmRZAAAALJ0SXJ11SUu7uoLR_nivZZ9Ltz0qgVNo2AOp3s1sSukB1YcaJ5LZQnNecprOBmDeKWsIwuQEc0-OfgiD8iKWVrUY25HNK-r3Gm_Ci3lFZQsMvsc2qHv4Gj3jcOMDBQRoEhDa-V-EOzsiZgc-QVPdjNA0GhTagtBkf8eQhZNqTKprJybx4U41ZA",
+         "types" : [
+            "hindu_temple",
+            "place_of_worship",
+            "point_of_interest",
+            "establishment"
+         ]
+      },
+      {
+         "formatted_address" : "Sector 2, Malviya Nagar, Jaipur, Rajasthan 302017, India",
+         "geometry" : {
+            "location" : {
+               "lat" : 26.850231,
+               "lng" : 75.816924
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/worship_hindu-71.png",
+         "id" : "aff8dcbacfcf6af10e85d22357e66c7c48b9e5b3",
+         "name" : "Shree Krishna Mandir",
+         "place_id" : "ChIJd38KFQ22bTkRHflnOS2WtGU",
+         "reference" : "CnRnAAAAGwsLwj2mp_Y9pkmqNBDT0ipue9AmdGPB1wmC12khAXyz-4KxFbfI5GEa5JPsWMtIt4xVr9_UvPrV2xmv4eBdGsA-aQUDFSKRSBor_BkI5i9K9Cktt-TtiR3UTAed_RkkC1IWKUFNUp0FqHHIhU6luRIQAtwkqx_Rs_reZrkxWtzMkBoUSgMzVCvkuP_Hxmm3mxWERu2z_vU",
+         "types" : [
+            "hindu_temple",
+            "place_of_worship",
+            "point_of_interest",
+            "establishment"
+         ]
+      },
+      {
+         "formatted_address" : "Sector 5, Malviya Nagar, Jaipur, Rajasthan 302017, India",
+         "geometry" : {
+            "location" : {
+               "lat" : 26.845865,
+               "lng" : 75.804996
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/worship_hindu-71.png",
+         "id" : "295ad3d34ee8bb024bd90bf43e4ca6a9ea5b5113",
+         "name" : "Jhulelal Temple",
+         "opening_hours" : {
+            "open_now" : true,
+            "weekday_text" : []
+         },
+         "place_id" : "ChIJt_B6vuG1bTkRR2f_jAFlhRc",
+         "reference" : "CnRiAAAA3Vd2WF6BLxFSVI0qnop_buvMSJnCTBuS8SDldgJZ48Rj40hg2lNGM6M2PR8nCbEWYB9ev6ZYRPfQLNrrzzFVuxM1Quv0sFSWBkWVejJ8C0l-Y47BK0ZGRYbaDogrBK5c_WyzYSxr5cS89piUwUljBhIQvNf5HhMAbpH63eKXp6EU1RoU__Ufny4Lin8Yn1-pXUkUVgMu4n8",
+         "types" : [
+            "hindu_temple",
+            "place_of_worship",
+            "point_of_interest",
+            "establishment"
+         ]
+      }
+   ],
+   "status" : "OK"
+}
