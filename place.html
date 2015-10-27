@@ -20,7 +20,7 @@
                 loc="51.503186,-0.126446"
                 var url = "http://avinashchaurasia.github.io/"+myselect.options[myselect.selectedIndex].value+".json";
                 
-                $.get(url, function(data){
+                $.getJSON(url, function(data){
                     for(i = 0; i < data.results.length; i++) {
                         $("#content").append(data.result[i].name+"<br/>");
                     }
