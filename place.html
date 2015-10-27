@@ -27,8 +27,8 @@
                 
                 $.getJSON(url, function(data){
                     for(i = 0; i < data.results.length; i++) {
-                        
-                        $("#solution").append("<tr><td>"+data.results[i].name+"</td></tr>");
+                        $("#solution").append("<tr><td>Name: "+data.results[i].name+"<br/>Address: "+data.results[i].formatted_address+"</td></tr>");
+                        //$("#solution").append("<tr><td>Adress: "+data.results[i].name+"</td></tr>");
                     }
                 });
                 
@@ -67,6 +67,7 @@
                 loc = position.coords.latitude +","+position.coords.longitude; 
             }
         </script>
+        
         
     </head>
 	<body>
@@ -107,13 +108,10 @@
         <table id="content" class="table table-striped">
             <thead>
               <tr>
-                <th>Name</th>
+                <th>Place Informations</th>
               </tr>
             </thead>
             <tbody id="solution">
-                <tr>
-                    <td>Sampe</td>
-                </tr>
             </tbody>
         </table>
 	   
