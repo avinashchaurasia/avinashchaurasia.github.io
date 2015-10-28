@@ -10,15 +10,8 @@
         <script src="https://ajax.googleapis.com/ajax/libs/jquery/2.1.3/jquery.min.js"></script>
         
         <script>            
-            var x = document.getElementById("content");
-            var loc = "";
-            
-
-            getLocation();
-            function jsFunction() {
-                $("#solution").empty();
-                var myselect = document.getElementById("selectOpt");
-                loc="51.503186,-0.126446"
+                
+            $( document ).ready(function() {
                 var url = "http://avinashchaurasia.github.io/news.json";
                 
                 var data;
@@ -26,11 +19,14 @@
                 //$("#content").append("<table class=\"table table-striped\">"+"<tbody>");
                 
                 $.getJSON(url, function(data){
+                    $("#solution").append(data);
                     for(i = 0; i < data.results.length; i++) {
+                        console.log( "document loaded" );
                         $("#solution").append("<tr><td>"+data.results[i].title+": <br/>NEWS: "+data.results[i].news+"</td></tr>");
                         
                     }
-                });
+                });    
+            });
 
         </script>
         
