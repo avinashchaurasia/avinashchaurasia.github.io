@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>Weather app</title>
+                
+        <!-- Include meta tag to ensure proper rendering and touch zooming -->
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+        
+        <!-- Latest compiled and minified CSS -->
+        <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.5/css/bootstrap.min.css">        
+        <script src="https://ajax.googleapis.com/ajax/libs/jquery/2.1.3/jquery.min.js"></script>
+        <script src="http://avinashchaurasia.github.io/jquery.simpleWeather.min.js"></script>
+        
+        <script>
+            $(document).ready(function() {
+              $.simpleWeather({
+                location: 'Jaipur, Rajasthan',
+                woeid: '',
+                unit: 'f',
+                success: function(weather) {
+                  html = '<h2><i class="icon-'+weather.code+'"></i> '+weather.temp+'&deg;'+weather.units.temp+'</h2>';
+                  html += '<ul><li>'+weather.city+', '+weather.region+'</li>';
+                  html += '<li class="currently">'+weather.currently+'</li>';
+                  html += '<li>'+weather.wind.direction+' '+weather.wind.speed+' '+weather.units.speed+'</li></ul>';
+
+                  $("#weather").html(html);
+                },
+                error: function(error) {
+                  $("#weather").html('<p>'+error+'</p>');
+                }
+              });
+            });
+
+        </script>
+    </head>
+    <body>
+        <div id="weather"></div>
+    </body>
+</html>

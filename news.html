@@ -22,7 +22,7 @@
                     $("#solution").append(data);
                     for(i = 0; i < data.results.length; i++) {
                         console.log( "document loaded" );
-                        $("#solution").append("<tr><td>"+data.results[i].title+": <br/>NEWS: "+data.results[i].news+"</td></tr>");
+                        $("#solution").append("<tr><td>NEWS: "+data.results[i].title+": <br/>"+data.results[i].news+"</td></tr>");
                         
                     }
                 });    
